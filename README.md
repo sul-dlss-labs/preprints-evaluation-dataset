@@ -13,18 +13,23 @@ A dataset contructed to evaluate metadata extraction from academic paper preprin
 
 ## Notebooks
 
-To run the notebooks you will need to create a virtual environment:
+To run the notebooks you will need to create a virtual environment and activate it:
 
 ```
 $ python -mvenv .venv
+$ source .venv/bin/activate
+```
+
+Then install the dependencies:
+
+```
 $ pip install -r requirements.txt
 ```
 
-Then run Jupyter Lab:
+Then run Jupyter:
 
 ```
 $ jupyter lab
 ```
 
 This should launch your browser with the Jupyter Lab running, from where you can select the notebook you are interested in using.
-
