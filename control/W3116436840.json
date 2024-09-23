@@ -1,0 +1,15 @@
+{
+  "label": "Supersingular curves with small non-integer endomorphisms",
+  "authors": [
+    {
+      "first_name": "Jonathan",
+      "last_name": "Love"
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Boneh"
+    }
+  ],
+  "abstract": "We introduce a special class of supersingular curves over Fp2, characterized by the existence of non-integer endomorphisms of small degree. A number of properties of this set is proved. Most notably, we show that when this set partitions into subsets in such a way that curves within each subset have small-degree isogenies between them, but curves in distinct subsets have no small-degree isogenies between them. Despite this, we show that isogenies between these curves can be computed efficiently, giving a technique for computing isogenies between certain prescribed curves that cannot be reasonably connected by searching on ℓ-sogeny graphs.",
+  "keywords": []
+}

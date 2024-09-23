@@ -1,0 +1,19 @@
+{
+  "label": "Size of bulk fermions in the SYK model",
+  "authors": [
+    {
+      "first_name": "Yuri D.",
+      "last_name": "Lensky"
+    },
+    {
+      "first_name": "Xiao-Liang",
+      "last_name": "Qi"
+    },
+    {
+      "first_name": "Pengfei",
+      "last_name": "Zhang"
+    }
+  ],
+  "abstract": "The study of quantum gravity in the form of the holographic duality has\nuncovered and motivated the detailed investigation of various diagnostics of quantum chaos.\nOne such measure is the operator size distribution, which characterizes the size of the\nsupport region of an operator and its evolution under Heisenberg evolution. In this work,\nwe examine the role of the operator size distribution in holographic duality for the Sachdev-\nYe-Kitaev (SYK) model. Using an explicit construction of AdS2 bulk fermion operators in a\nputative dual of the low temperature SYK model, we study the operator size distribution of\nthe boundary and bulk fermions. Our result provides a direct derivation of the relationship\nbetween (effective) operator size of both the boundary and bulk fermions and bulk SL(2; R)\ngenerators.",
+  "keywords": []
+}

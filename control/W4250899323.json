@@ -1,0 +1,36 @@
+{
+  "label": "Upstream oil and gas production and ambient air pollution in California",
+  "authors": [
+    {
+      "first_name": "David J.X.",
+      "last_name": "Gonzalez"
+    },
+    {
+      "first_name": "Christina K.",
+      "last_name": "Francis"
+    },
+    {
+      "first_name": "Gary M.",
+      "last_name": "Shaw"
+    },
+    {
+      "first_name": "Mark R.",
+      "last_name": "Cullen"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Baiocchi"
+    },
+    {
+      "first_name": "Marshall",
+      "last_name": "Burke"
+    }
+  ],
+  "abstract": "Background. Prior studies have found that residential proximity to upstream oil and gas production is associated with increased risk of adverse health outcomes. Emissions of ambient air pollutants from oil and gas wells in the preproduction and production stages have been proposed as conferring risk of adverse health effects, but the extent of air pollutant emissions and resulting nearby pollution concentrations from wells is not clear. Objectives. We examined the effects of upstream oil and gas preproduction (count of drilling sites) and production (total volume of oil and gas) activities on concentrations of five ambient air pollutants in California. Methods. We obtained data on approximately 1 million daily observations from 314 monitors in the EPA Air Quality System, 2006-2019, including daily concentrations of five routinely monitored ambient air pollutants: PM2.5, CO, NO2, O3, and VOCs. We obtained data on preproduction and production operations from Enverus and the California Geographic Energy Management Division (CalGEM) for all wells in the state. For each monitor and each day, we assessed exposure to upwind preproduction wells and total oil and gas production volume within 10 km. We used a panel regression approach in the analysis and fit adjusted fixed effects linear regression models for each pollutant, controlling for geographic, seasonal, temporal, and meteorological factors. Results. We observed higher concentrations of PM2.5 and CO at monitors within 3 km of preproduction wells, NO2 at monitors at 1-2 km, and O3 at 2-4 km from the wells. Monitors with proximity to increased production volume observed higher concentrations of PM2.5, NO2, and VOCs within 1 km and higher O3 concentrations at 1-2 km. Results were robust to sensitivity analyses. Conclusion. Adjusting for geographic, meteorological, seasonal, and time-trending factors, we observed higher concentrations of ambient air pollutants at air quality monitors in proximity to preproduction wells within 4 km and producing wells within 2 km.",
+  "keywords": [
+    "oil and gas",
+    "exposure assessment",
+    "ambient air pollution",
+    "particulate matter"
+  ]
+}

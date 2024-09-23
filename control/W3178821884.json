@@ -1,0 +1,145 @@
+{
+  "label": "The Galaxy Activity, Torus and Outflow Survey (GATOS): II. Torus and polar dust emission in nearby Seyfert galaxies",
+  "authors": [
+    {
+      "first_name": "A.",
+      "last_name": "Alonso-Herrero"
+    },
+    {
+      "first_name": "S.",
+      "last_name": "García-Burillo"
+    },
+    {
+      "first_name": "S. F. ",
+      "last_name": "Hönig"
+    },
+    {
+      "first_name": "I.",
+      "last_name": "García-Bernete"
+    },
+    {
+      "first_name": "C. Ramos",
+      "last_name": "Almeida"
+    },
+    {
+      "first_name": "O.",
+      "last_name": "González-Martín"
+    },
+    {
+      "first_name": "E.",
+      "last_name": "López-Rodríguez"
+    },
+    {
+      "first_name": "P. G.",
+      "last_name": "Boorman"
+    },
+    {
+      "first_name": "A. J.",
+      "last_name": "Bunker"
+    },
+    {
+      "first_name": "L.",
+      "last_name": "Burtscher"
+    },
+    {
+      "first_name": "F.",
+      "last_name": "Combes"
+    },
+    {
+      "first_name": "R.",
+      "last_name": "Davies"
+    },
+    {
+      "first_name": "T.",
+      "last_name": "Díaz-Santos"
+    },
+    {
+      "first_name": "P.",
+      "last_name": "Gandhi"
+    },
+    {
+      "first_name": "B.",
+      "last_name": "García-Lorenzo"
+    },
+    {
+      "first_name": "E. K. S. ",
+      "last_name": "Hicks"
+    },
+    {
+      "first_name": "L. K.",
+      "last_name": "Hunt"
+    },
+    {
+      "first_name": "K.",
+      "last_name": "Ichikawa"
+    },
+    {
+      "first_name": "M.",
+      "last_name": "Imanishi"
+    },
+    {
+      "first_name": "T.",
+      "last_name": "Izumi"
+    },
+    {
+      "first_name": "A.",
+      "last_name": "Labiano"
+    },
+    {
+      "first_name": "N. A.",
+      "last_name": "Levenson"
+    },
+    {
+      "first_name": "C.",
+      "last_name": "Packham"
+    },
+    {
+      "first_name": "M.",
+      "last_name": "Pereira-Santaella"
+    },
+    {
+      "first_name": "C.",
+      "last_name": "Ricci"
+    },
+    {
+      "first_name": "D.",
+      "last_name": "Rigopoulou"
+    },
+    {
+      "first_name": "P.",
+      "last_name": "Roche"
+    },
+    {
+      "first_name": "D. J.",
+      "last_name": "Rosario"
+    },
+    {
+      "first_name": "D.",
+      "last_name": "Rouan"
+    },
+    {
+      "first_name": "T.",
+      "last_name": "Shimizu"
+    },
+    {
+      "first_name": "M.",
+      "last_name": "Stalevski"
+    },
+    {
+      "first_name": "K.",
+      "last_name": "Wada"
+    },
+    {
+      "first_name": "D.",
+      "last_name": "Williamson"
+    }
+  ],
+  "abstract": "We compare high angular resolution mid-infrared (mid-IR) and ALMA far-infrared (far-IR) images of twelve nearby (median 21 Mpc) Seyfert galaxies selected from the Galaxy Activity Torus and Outflow Survey (GATOS). The mid-IR unresolved emission contributes more than 60% of the nuclear (diameters of 1.5\"~150 pc) emission in most galaxies. By contrast, the ALMA 870 µm continuum emission is mostly resolved with a median diameter of 42 pc and typically along the equatorial direction of the torus (Paper I of the series Garcia-Burillo et al. 2021). The Eddington ratios and nuclear hydrogen column densities (NH) of half the sample are favorable to launching polar and/or equatorial dusty winds, according to numerical simulations. Six of these show mid-IR extended emission approximately in the polar direction as traced by the narrow line region and perpendicular to the ALMA emission. In a few galaxies, the nuclear N₁ might be too high to uplift large quantities of dusty material along the polar direction. Five galaxies have low NH and/or Eddington ratios and thus polar dusty winds are not likely. We generate new radiative transfer CAT3D-WIND disk-wind models and model images at 8, 12, and 700 µm. We tailor these models to the properties of the GATOS Seyferts in this work. At low wind-to-disk cloud ratios the far-IR model images have disk- and ring-like morphologies. The characteristic \"X\"-shape associated with dusty winds is seen better in the far-IR at intermediate-high inclinations for the extended-wind configurations. In most of the explored models, the mid-IR emission comes mainly from the inner part of the disk/cone. Extended bi-conical and one-sided polar mid-IR emission is seen in extended-wind configurations and high wind-to-disk cloud ratios. When convolved to the typical angular resolution of our observations, the CAT3D-WIND model images reproduce qualitative aspects of the observed mid- and far-IR morphologies. However, low to intermediate values of the wind-to-disk ratio are required to account for the observed large fractions of unresolved mid-IR emission in our sample. This work and Paper I provide observational support for the torus+wind scenario. The wind component is more relevant at high Eddington ratios and/or AGN luminosities, and polar dust emission is predicted at nuclear column densities of up to 1024 cm-2. The torus/disk component, on the other hand, prevails at low luminosities and/or Eddington ratios.",
+  "keywords": [
+    "Galaxies: Seyfert",
+    "Submillimeter: galaxies",
+    "Infrared: galaxies",
+    "Galaxies: ISM",
+    "Galaxies: individual: NGC 1365, NGC 3227, NGC 4388, NGC 4941, NGC 5506, NGC 5643, NGC 6300, NGC 6814, NGC 7213, NGC 7314, NGC 7465, NGC 7582"
+  ]
+}
