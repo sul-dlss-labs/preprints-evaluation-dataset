@@ -8,8 +8,8 @@ A dataset contructed to evaluate metadata extraction from academic paper preprin
 * Select 3 items from each discipline. (how?)
 * Note: We didn't filter by OpenAlex's "Type: Article", so we need to manually examine each and determine if it is appropriate for inclusion in the set.
 * Produce data collection inventory sheet: https://docs.google.com/spreadsheets/d/1Jl1TKbTgeM3z8S-AO0FaH1VgRjMVP49dg4wZLkpGPus/edit?gid=1284016921#gid=1284016921
-* TODO: Once the inventory sheet is collected done, export data from Shroom and add it to this repo.
-* TODO: Evaluate various Document question models with this dataset. 
+* Copy the druids that were cataloged (and are preprints) from the spreadsheet and add them to `download_results.sh` then run it.
+* TODO: Evaluate various Document question models with this dataset.
 
 ## Notebooks
 
