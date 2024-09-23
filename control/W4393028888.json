@@ -1,0 +1,103 @@
+{
+  "label": "Self-reports map the landscape of task states derived from brain imaging",
+  "authors": [
+    {
+      "first_name": "Bronte",
+      "last_name": "Mckeown"
+    },
+    {
+      "first_name": "lan",
+      "last_name": "Goodall-Halliwell"
+    },
+    {
+      "first_name": "Raven",
+      "last_name": "Wallace"
+    },
+    {
+      "first_name": "Louis",
+      "last_name": "Chitiz"
+    },
+    {
+      "first_name": "Bridget",
+      "last_name": "Mulholland"
+    },
+    {
+      "first_name": "Theodoros",
+      "last_name": "Karapanagiotidis"
+    },
+    {
+      "first_name": "Samyogita",
+      "last_name": "Hardikar"
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Strawson"
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Turnbull"
+    },
+    {
+      "first_name": "Tamara",
+      "last_name": "Vanderwal"
+    },
+    {
+      "first_name": "Nerissa",
+      "last_name": "Ho"
+    },
+    {
+      "first_name": "Hao-Ting",
+      "last_name": "Wang"
+    },
+    {
+      "first_name": "Ting",
+      "last_name": "Xu"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Milham"
+    },
+    {
+      "first_name": "Xiuyi",
+      "last_name": "Wang"
+    },
+    {
+      "first_name": "Meichao",
+      "last_name": "Zhang"
+    },
+    {
+      "first_name": "Tirso Gonzalez",
+      "last_name": "Alam"
+    },
+    {
+      "first_name": "Reinder",
+      "last_name": "Vos de Wael"
+    },
+    {
+      "first_name": "Boris",
+      "last_name": "Bernhardt"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Margulies"
+    },
+    {
+      "first_name": "Jeffrey",
+      "last_name": "Wammes"
+    },
+    {
+      "first_name": "Elisabeth",
+      "last_name": "Jefferies"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Leech"
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Smallwood"
+    }
+  ],
+  "abstract": "Psychological states influence our happiness and productivity; however, estimates of their impact have historically been assumed to be limited by the accuracy with which introspection can quantify them. Over the last two decades, studies have shown that introspective descriptions of psychological states correlate with objective indicators of cognition, including task performance and metrics of brain function, using techniques like functional magnetic resonance imaging (fMRI). Such evidence suggests it may be possible to quantify the mapping between self-reports of experience and 'ground-truth' or biologically related representations of those states (e.g., those inferred from measures of brain activity). Here, we used machine learning to show that self-reported descriptions of experiences across tasks can reliably map the objective landscape of task states derived from brain activity. In our study, participants provided descriptions of their psychological states while performing tasks for which the contribution of different brain systems was available from prior fMRI studies. We used machine learning to combine these reports with descriptions of brain function to form a 'state-space' that reliably predicted patterns of brain activity based solely on unseen descriptions of experience. Our study demonstrates that introspection contains information that maps the objective task landscape inferred from brain activity.",
+  "keywords": []
+}

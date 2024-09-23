@@ -1,0 +1,244 @@
+{
+  "label": "Emotional consequences of COVID-19 home confinement: The ECLB-COVID19 multicenter study",
+  "authors": [
+    {
+      "first_name": "Achraf",
+      "last_name": "Ammar"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Mueller"
+    },
+    {
+      "first_name": "Khaled",
+      "last_name": "Trabelsi"
+    },
+    {
+      "first_name": "Hamdi",
+      "last_name": "Chtourou"
+    },
+    {
+      "first_name": "Omar",
+      "last_name": "Boukhris"
+    },
+    {
+      "first_name": "Liwa",
+      "last_name": "Masmoudi"
+    },
+    {
+      "first_name": "Bassem",
+      "last_name": "Bouaziz"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Brach"
+    },
+    {
+      "first_name": "Marlen",
+      "last_name": "Schmicker"
+    },
+    {
+      "first_name": "Ellen",
+      "last_name": "Bentlage"
+    },
+    {
+      "first_name": "Daniella",
+      "last_name": "How"
+    },
+    {
+      "first_name": "Mona",
+      "last_name": "Ahmed"
+    },
+    {
+      "first_name": "Asma",
+      "last_name": "Aloui"
+    },
+    {
+      "first_name": "Omar",
+      "last_name": "Hammouda"
+    },
+    {
+      "first_name": "Laisa Liane",
+      "last_name": "Paineiras-Domingos"
+    },
+    {
+      "first_name": "Annemarie",
+      "last_name": "Braakman-jansen"
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Wrede"
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Bastoni"
+    },
+    {
+      "first_name": "Carlos Soares",
+      "last_name": "Pernambuco"
+    },
+    {
+      "first_name": "Leonardo",
+      "last_name": "Mataruna"
+    },
+    {
+      "first_name": "Morteza",
+      "last_name": "Taheri"
+    },
+    {
+      "first_name": "Khadijeh",
+      "last_name": "Irandoust"
+    },
+    {
+      "first_name": "Aïmen",
+      "last_name": "Khacharem"
+    },
+    {
+      "first_name": "Nicola L",
+      "last_name": "Bragazzi"
+    },
+    {
+      "first_name": "Karim",
+      "last_name": "Chamari"
+    },
+    {
+      "first_name": "Jordan M",
+      "last_name": "Glenn"
+    },
+    {
+      "first_name": "Nicholas T",
+      "last_name": "Bott"
+    },
+    {
+      "first_name": "Faiez",
+      "last_name": "Gargouri"
+    },
+    {
+      "first_name": "Lotfi",
+      "last_name": "Chaari"
+    },
+    {
+      "first_name": "Hadj",
+      "last_name": "Batatia"
+    },
+    {
+      "first_name": "Gamal Mohamed",
+      "last_name": "Ali"
+    },
+    {
+      "first_name": "Osama",
+      "last_name": "Abdelkarim"
+    },
+    {
+      "first_name": "Mohamed",
+      "last_name": "Jarraya"
+    },
+    {
+      "first_name": "Kais",
+      "last_name": "El Abed"
+    },
+    {
+      "first_name": "Nizar",
+      "last_name": "Souissi"
+    },
+    {
+      "first_name": "Lisette",
+      "last_name": "Van Gemert-Pijnen"
+    },
+    {
+      "first_name": "Stephen J",
+      "last_name": "Bailey"
+    },
+    {
+      "first_name": "Wassim",
+      "last_name": "Moalla"
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Gómez-Raja"
+    },
+    {
+      "first_name": "Monique",
+      "last_name": "Epstein"
+    },
+    {
+      "first_name": "Robbert",
+      "last_name": "Sanderman"
+    },
+    {
+      "first_name": "Sebastian",
+      "last_name": "Schulz"
+    },
+    {
+      "first_name": "Achim",
+      "last_name": "Jerg"
+    },
+    {
+      "first_name": "Ramzi",
+      "last_name": "Al-Horani"
+    },
+    {
+      "first_name": "Taysir",
+      "last_name": "Mansi"
+    },
+    {
+      "first_name": "Mohamed",
+      "last_name": "Jmail"
+    },
+    {
+      "first_name": "Fernando",
+      "last_name": "Barbosa"
+    },
+    {
+      "first_name": "Fernando",
+      "last_name": "Santos"
+    },
+    {
+      "first_name": "Boštjan",
+      "last_name": "Šimunič"
+    },
+    {
+      "first_name": "Rado",
+      "last_name": "Pišot"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Cowan"
+    },
+    {
+      "first_name": "Andrea",
+      "last_name": "Gaggioli"
+    },
+    {
+      "first_name": "Jürgen",
+      "last_name": "Steinacker"
+    },
+    {
+      "first_name": "Laurel",
+      "last_name": "Riemann"
+    },
+    {
+      "first_name": "Bryan L",
+      "last_name": "Riemann"
+    },
+    {
+      "first_name": "Notger",
+      "last_name": "Mueller"
+    },
+    {
+      "first_name": "Tarak",
+      "last_name": "Driss"
+    },
+    {
+      "first_name": "Anita",
+      "last_name": "Hoekelmann"
+    }
+  ],
+  "abstract": "Background\n\nPublic health recommendations and government measures during the COVID-19 pandemic have enforced restrictions on daily living, which may include social distancing, remote work/school, and home confinement. While these measures are imperative to abate the spreading of COVID-19, the impact of these restrictions on mental health and emotional wellbeing is undefined. Therefore, an international online survey was launched on April 6, 2020 in seven languages to elucidate the impact of COVID-19 restrictions on mental health and emotional well-being. This report presents the preliminary results from the first thousand responders on mental wellbeing and mood and feelings questionnaires.\n\nMethods\n\nThe ECLB-COVID19 electronic survey was designed by a steering group of multidisciplinary\nscientists and academics, following a structured review of the literature. The survey was\nuploaded and shared on the Google online survey platform. Thirty-five research organizations\nfrom Europe, North-Africa, Western Asia and the Americas promoted the multi-languages\nsurvey through their networks to general society. Of the 64 questions, 7 were from the Short\nWarwick-Edinburgh Mental Well-being Scale (SWEMWBS), and 13 were from the Short\nMood and Feelings Questionnaire (SMFQ), which are both validated instruments.\n\nResults\n\nAnalysis was conducted on the first 1047 replies (54% women) from Asia (36%), Africa (40%),\nEurope (21%) and other (3%). The COVID-19 home confinement had a negative effect on both\nmental wellbeing and on mood and feelings. Specifically, a significant decrease (p<0.001 and\nΔ%= 9.4 %) in the total score of mental wellbeing was noted. More individuals (+12.89%)\nreported a low mental wellbeing “during” compared to “before” home confinement. Furthermore, results from the mood and feelings questionnaire (i.e., depressive symptoms)\nshowed a significant increase by 44.9% (p<0.001) in total score with more people (+10%)\ndeveloping depressive symptoms “during” compared to “before” home confinement.\nConclusion\nThe ECLB-COVID19 survey revealed an increased psychosocial strain triggered by the\nenforced home confinement. To mitigate this high risk of mental disorders and to foster an\nActive and Healthy Confinement Lifestyle (AHCL), a crisis-oriented interdisciplinary\nintervention is urgently needed.\n",
+  "keywords": [
+    "Public health",
+    "Pandemic",
+    "Mental wellbeing",
+    "Depression"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "label": "High-Resolution In Silico Painting with Generative Models",
+  "authors": [
+    {
+      "first_name": "Trang",
+      "last_name": "Le"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Lundberg"
+    }
+  ],
+  "abstract": "Label-free organelle prediction presents a longstanding\nchallenge in cellular imaging, given the promise to to circumvent\nthe numerous drawbacks associated with fluorescent microscopy,\nincluding its high costs, cytotoxicity, and time-consuming na-\nture. Recent advancements in deep learning have introduced\nnumerous effective algorithms, primarily deterministic, for pre-\ndicting fluorescent patterns from transmitted light microscopy\nimages. However, existing models frequently suffer from poor\nperformance or are limited to specific datasets, image modalities,\nand magnifications, thus lacking a universal solution. In this\npaper, we present a simplified VQGAN training scheme that\nis easily adapted with different input/output channels for image-\nto-image translation tasks. We applied the algorithm to generate\nmulti-channel organelle staining outputs from bright field inputs,\nequivalent to the popular Cell Painting assay. The same algorithm\nalso participated and placed first in the ISBI 2024 Light My Cell\nchallenge.",
+  "keywords": [
+    "Bioimage analysis",
+    "generative model",
+    "label free",
+    "cell painting"
+  ]
+}

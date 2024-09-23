@@ -1,0 +1,82 @@
+{
+  "label": "Moderate to high levels of pre-treatment HIV drug resistance in KwaZulu-Natal Province, South Africa",
+  "authors": [
+    {
+      "first_name": "Benjamin",
+      "last_name": "Chimukangara"
+    },
+    {
+      "first_name": "Ayesha BM",
+      "last_name": "Kharsany"
+    },
+    {
+      "first_name": "Richard J",
+      "last_name": "Lessells"
+    },
+    {
+      "first_name": "Kogieleum",
+      "last_name": "Naidoo"
+    },
+    {
+      "first_name": "Soo-Yon",
+      "last_name": "Rhee"
+    },
+    {
+      "first_name": "Justen",
+      "last_name": "Manasa"
+    },
+    {
+      "first_name": "Tiago",
+      "last_name": "Gräf"
+    },
+    {
+      "first_name": "Lara",
+      "last_name": "Lewis"
+    },
+    {
+      "first_name": "Cherie",
+      "last_name": "Cawood"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Khanyile"
+    },
+    {
+      "first_name": "Karidia",
+      "last_name": "Diallo"
+    },
+    {
+      "first_name": "Kassahun A",
+      "last_name": "Ayalew"
+    },
+    {
+      "first_name": "Robert W",
+      "last_name": "Shafer"
+    },
+    {
+      "first_name": "Gillian",
+      "last_name": "Hunt"
+    },
+    {
+      "first_name": "Deenan",
+      "last_name": "Pillay"
+    },
+    {
+      "first_name": "Salim Karim",
+      "last_name": "Abdool"
+    },
+    {
+      "first_name": "Tulio de",
+      "last_name": "Oliveira"
+    }
+  ],
+  "abstract": "There is evidence of increasing levels of pre-treatment HIV drug resistance (PDR) in Southern Africa. We used data from two large population-based HIV surveillance studies to estimate prevalence of PDR in KwaZulu-Natal, the province with the highest HIV prevalence in South Africa. Methods: Sanger sequencing was performed on samples obtained from a longitudinal HIV surveillance programme (study A, 2013-2014) and the HIV Incidence Provincial Surveillance System (study B, 2014-2015). Sequences were included for adult HIV positive participants (age ≥15 years for study A, age 15-49 years for study B) with no documented prior exposure to ART. Overall and drug class-specific PDR was estimated using the World Health Organization 2009 surveillance drug resistance mutation (SDRM) list and phylogenetic analysis was performed to establish evidence of drug resistance transmission linkage. Results: One thousand eight hundred and forty-five (1845) sequences were analysed (611 study A; 1234 study B). An overall PDR prevalence of 9.2% (95% confidence interval (CI): 7.0-11.7) was observed for study A and 11.0% (95% CI 8.9-13.2) for study B. In study B, the prevalence of non-nucleoside reverse-transcriptase inhibitor (NNRTI) PDR exceeded 10% for sequences collected in 2014 (10.2%, 95% CI 7.5-12.9). The most prevalent SDRMs were K103NS (7.5%), M184VI (2.4%) and V106AM (1.4%). There was no evidence of large transmission chains of drug-resistant virus. Conclusion: High level NNRTI-PDR (>10%) suggests a need to modify the standard first-line ART regimen and to focus attention on improving the quality of HIV prevention, treatment and care.",
+  "keywords": [
+    "HIV",
+    "pre-treatment drug resistance",
+    "antiretroviral therapy",
+    "surveillance",
+    "molecular epidemiology",
+    "South Africa"
+  ]
+}

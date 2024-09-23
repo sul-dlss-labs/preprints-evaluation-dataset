@@ -1,0 +1,144 @@
+{
+  "label": "Recommendations for Quantitative Cerebral Perfusion MRI using Multi-Timepoint Arterial Spin Labeling: Acquisition, Quantification, and Clinical Applications",
+  "authors": [
+    {
+      "first_name": "Joseph G.",
+      "last_name": "Woods"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Achten"
+    },
+    {
+      "first_name": "Iris",
+      "last_name": "Asllani"
+    },
+    {
+      "first_name": "Divya S.",
+      "last_name": "Bolar"
+    },
+    {
+      "first_name": "Weiying",
+      "last_name": "Dai"
+    },
+    {
+      "first_name": "John A.",
+      "last_name": "Detre"
+    },
+    {
+      "first_name": "Audrey P.",
+      "last_name": "Fan"
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Fernández-Seara"
+    },
+    {
+      "first_name": "Xavier",
+      "last_name": "Golay"
+    },
+    {
+      "first_name": "Matthias",
+      "last_name": "Günther"
+    },
+    {
+      "first_name": "Jia",
+      "last_name": "Guo"
+    },
+    {
+      "first_name": "Luis",
+      "last_name": "Hernandez-Garcia"
+    },
+    {
+      "first_name": "Mai-Lan",
+      "last_name": "Ho"
+    },
+    {
+      "first_name": "Meher R.",
+      "last_name": "Juttukonda"
+    },
+    {
+      "first_name": "Hanzhang",
+      "last_name": "Lu"
+    },
+    {
+      "first_name": "Bradley J.",
+      "last_name": "MacIntosh"
+    },
+    {
+      "first_name": "Ananth J.",
+      "last_name": "Madhuranthakam"
+    },
+    {
+      "first_name": "Henk-Jan",
+      "last_name": "Mutsaerts"
+    },
+    {
+      "first_name": "Thomas W.",
+      "last_name": "Okell"
+    },
+    {
+      "first_name": "Laura M.",
+      "last_name": "Parkes"
+    },
+    {
+      "first_name": "Nandor",
+      "last_name": "Pinter"
+    },
+    {
+      "first_name": "Joana",
+      "last_name": "Pinto"
+    },
+    {
+      "first_name": "Qin",
+      "last_name": "Qin"
+    },
+    {
+      "first_name": "Marion",
+      "last_name": "Smits"
+    },
+    {
+      "first_name": "Yuriko",
+      "last_name": "Suzuki"
+    },
+    {
+      "first_name": "David L.",
+      "last_name": "Thomas"
+    },
+    {
+      "first_name": "Matthias J.P.",
+      "last_name": "Van Osch"
+    },
+    {
+      "first_name": "Danny JJ",
+      "last_name": "Wang"
+    },
+    {
+      "first_name": "Esther A.H.",
+      "last_name": "Warnert"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Zaharchuk"
+    },
+    {
+      "first_name": "Fernando",
+      "last_name": "Zelaya"
+    },
+    {
+      "first_name": "Moss",
+      "last_name": "Zhao"
+    },
+    {
+      "first_name": "Michael A.",
+      "last_name": "Chappell"
+    }
+  ],
+  "abstract": "Accurate assessment of cerebral perfusion is vital for understanding the hemodynamic\nprocesses involved in various neurological disorders and guiding clinical decision-\nmaking. This guidelines article provides a comprehensive overview of quantitative\nperfusion imaging of the brain using multi-timepoint arterial spin labeling (ASL), along\nwith recommendations for its acquisition and quantification. Acquiring ASL data with\nmultiple label durations and/or post-labeling delays (PLDs) enables efficient mapping\nof perfusion, offering comparable accuracy to a conventional single-PLD approach\nwithin the same scan time. Additionally, multi-timepoint ASL allows for the estimation\nof arterial transit time (ATT) and the generation of ATT maps, mitigating the impact of\nvariable and prolonged ATTs on perfusion measurements and providing valuable\nclinical insights. However, the acquisition and postprocessing of multi-timepoint ASL\ndata presents challenges beyond single-PLD ASL, impeding its widespread adoption.\nBuilding upon the 2015 ASL consensus article, this work highlights the protocol\ndistinctions specific to multi-timepoint ASL and provides robust recommendations for\nacquiring high-quality data. Additionally, we propose an extended quantification model\nbased on the 2015 consensus model and discuss relevant postprocessing options to\nenhance the analysis of multi-timepoint ASL data. Furthermore, we review the\npotential clinical applications where multi-timepoint ASL is expected to offer significant\nbenefits. This article is part of a series published by the International Society for\nMagnetic Resonance in Medicine (ISMRM) Perfusion Study Group, aiming to guide\nand inspire the advancement and utilization of ASL beyond the scope of the 2015\nconsensus article.",
+  "keywords": [
+    "arterial spin labeling",
+    "perfusion",
+    "cerebral blood flow",
+    "arterial transit time"
+  ]
+}
