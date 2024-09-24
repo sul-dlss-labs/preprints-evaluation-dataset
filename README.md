@@ -10,7 +10,7 @@ A dataset contructed to evaluate metadata extraction from academic paper preprin
 * Produce data collection inventory sheet: https://docs.google.com/spreadsheets/d/1Jl1TKbTgeM3z8S-AO0FaH1VgRjMVP49dg4wZLkpGPus/edit?gid=1284016921#gid=1284016921
 * Copy the druids that were cataloged (and are preprints) from the spreadsheet and put them in `records.csv`
 * Run `download_results.sh` which collects the data from SDR and distills it into our control set (in `control/`)
-* Collect experimental data.  One experiment is <gemini-1.5-flash/>. The notebook and expermental results are in that directiory. 
+* Collect experimental data.  One experiment is [gemini-1.5-flash](gemini-1.5-flash). The notebook and expermental results are in that directory. 
 * Compare the experimental results with the control data. Method TBD.
 
 ## Notebooks
