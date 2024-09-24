@@ -2,3 +2,4 @@ jupyterlab
 pandas
 pyalex
 tqdm
+levenshtein
