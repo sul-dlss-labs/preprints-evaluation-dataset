@@ -1,21 +1,21 @@
 {
-  "label": "Shape Matters: Understanding the Implicit Bias of the Noise Covariance",
+  "title": "Shape Matters: Understanding the Implicit Bias of the Noise Covariance",
   "authors": [
     {
-      "first_name": "Jeff Z.",
-      "last_name": "HaoChen"
+      "first": "Jeff Z.",
+      "last": "HaoChen"
     },
     {
-      "first_name": "Colin",
-      "last_name": "Wei"
+      "first": "Colin",
+      "last": "Wei"
     },
     {
-      "first_name": "Jason D.",
-      "last_name": "Lee"
+      "first": "Jason D.",
+      "last": "Lee"
     },
     {
-      "first_name": "Tengyu",
-      "last_name": "Ma"
+      "first": "Tengyu",
+      "last": "Ma"
     }
   ],
   "abstract": "The noise in stochastic gradient descent (SGD) provides a crucial implicit regularization effect for training\noverparameterized models. Prior theoretical work largely focuses on spherical Gaussian noise, whereas\nempirical studies demonstrate the phenomenon that parameter-dependent noise — induced by mini-batches or label perturbation — is far more effective than Gaussian noise. This paper theoretically characterizes this phenomenon on a quadratically-parameterized model introduced by Vaskevicius et al. (2019) and Woodworth et al. (2020). We show that in an over-parameterized setting, SGD with label noise recovers the sparse ground-truth with an arbitrary initialization, whereas SGD with Gaussian noise or gradient descent overfits to dense solutions with large norms. Our analysis reveals that parameter-dependent noise introduces a bias towards local minima with smaller noise variance, whereas spherical Gaussian noise does not. Code for our project is publicly available.",

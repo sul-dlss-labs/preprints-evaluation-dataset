@@ -1,21 +1,21 @@
 {
-  "label": "PBBFMM3D: a parallel black-box algorithm for kernel matrix-vector multiplication",
+  "title": "PBBFMM3D: a parallel black-box algorithm for kernel matrix-vector multiplication",
   "authors": [
     {
-      "first_name": "Ruoxi",
-      "last_name": "Wang"
+      "first": "Ruoxi",
+      "last": "Wang"
     },
     {
-      "first_name": "Chao",
-      "last_name": "Chen"
+      "first": "Chao",
+      "last": "Chen"
     },
     {
-      "first_name": "Jonghyun",
-      "last_name": "Lee"
+      "first": "Jonghyun",
+      "last": "Lee"
     },
     {
-      "first_name": "Eric",
-      "last_name": "Darve"
+      "first": "Eric",
+      "last": "Darve"
     }
   ],
   "abstract": "Kernel matrix-vector product is ubiquitous in many science and engineering applications. However, a naive method requires O(N<sup>2</sup>) operations, which becomes prohibitive for large-scale problems. To reduce the computation cost, we introduce a parallel method that provably requires O(N) operations and delivers an approximate result within a prescribed tolerance. The distinct feature of our method is that it requires only the ability to evaluate the kernel function, offering a black-box interface to users. Our parallel approach targets multi-core shared-memory machines and is implemented using OpenMP. Numerical results demonstrate up to 19× speedup on 32 cores. We also present a real-world application in geo-statistics, where our parallel method was used to deliver fast principle component analysis of covariance matrices.",

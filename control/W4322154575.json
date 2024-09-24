@@ -1,141 +1,141 @@
 {
-  "label": "Schistosoma mansoni infection alters the host pre-vaccination environment resulting in blunted Hepatitis B vaccination immune responses",
+  "title": "Schistosoma mansoni infection alters the host pre-vaccination environment resulting in blunted Hepatitis B vaccination immune responses",
   "authors": [
     {
-      "first_name": "Roshell",
-      "last_name": "Muir"
+      "first": "Roshell",
+      "last": "Muir"
     },
     {
-      "first_name": "Talibah",
-      "last_name": "Metcalf"
+      "first": "Talibah",
+      "last": "Metcalf"
     },
     {
-      "first_name": "Slim",
-      "last_name": "Fourati"
+      "first": "Slim",
+      "last": "Fourati"
     },
     {
-      "first_name": "Yannic",
-      "last_name": "Bartsch"
+      "first": "Yannic",
+      "last": "Bartsch"
     },
     {
-      "first_name": "Jacqueline",
-      "last_name": "Kyosiimire Lugemwa"
+      "first": "Jacqueline",
+      "last": "Kyosiimire Lugemwa"
     },
     {
-      "first_name": "Glenda",
-      "last_name": "Canderan"
+      "first": "Glenda",
+      "last": "Canderan"
     },
     {
-      "first_name": "Galit",
-      "last_name": "Alter"
+      "first": "Galit",
+      "last": "Alter"
     },
     {
-      "first_name": "Enoch",
-      "last_name": "Muyanja"
+      "first": "Enoch",
+      "last": "Muyanja"
     },
     {
-      "first_name": "Brenda",
-      "last_name": "Okech"
+      "first": "Brenda",
+      "last": "Okech"
     },
     {
-      "first_name": "Teddy",
-      "last_name": "Namatovu"
+      "first": "Teddy",
+      "last": "Namatovu"
     },
     {
-      "first_name": "Irene",
-      "last_name": "Namara"
+      "first": "Irene",
+      "last": "Namara"
     },
     {
-      "first_name": "Annemarie",
-      "last_name": "Namuniina"
+      "first": "Annemarie",
+      "last": "Namuniina"
     },
     {
-      "first_name": "Ali",
-      "last_name": "Ssetaala"
+      "first": "Ali",
+      "last": "Ssetaala"
     },
     {
-      "first_name": "Juliet",
-      "last_name": "Mpendo"
+      "first": "Juliet",
+      "last": "Mpendo"
     },
     {
-      "first_name": "Annet",
-      "last_name": "Nanvubya"
+      "first": "Annet",
+      "last": "Nanvubya"
     },
     {
-      "first_name": "Paul Kato",
-      "last_name": "Kitandwe"
+      "first": "Paul Kato",
+      "last": "Kitandwe"
     },
     {
-      "first_name": "Bernard S.",
-      "last_name": "Bagaya"
+      "first": "Bernard S.",
+      "last": "Bagaya"
     },
     {
-      "first_name": "Noah",
-      "last_name": "Kiwanuka"
+      "first": "Noah",
+      "last": "Kiwanuka"
     },
     {
-      "first_name": "Jacent",
-      "last_name": "Nassuna"
+      "first": "Jacent",
+      "last": "Nassuna"
     },
     {
-      "first_name": "Victoria Menya",
-      "last_name": "Biribawa"
+      "first": "Victoria Menya",
+      "last": "Biribawa"
     },
     {
-      "first_name": "Alison M.",
-      "last_name": "Elliott"
+      "first": "Alison M.",
+      "last": "Elliott"
     },
     {
-      "first_name": "Claudia J.",
-      "last_name": "de Dood"
+      "first": "Claudia J.",
+      "last": "de Dood"
     },
     {
-      "first_name": "William",
-      "last_name": "Senyonga"
+      "first": "William",
+      "last": "Senyonga"
     },
     {
-      "first_name": "Priscilla",
-      "last_name": "Balungi"
+      "first": "Priscilla",
+      "last": "Balungi"
     },
     {
-      "first_name": "Pontiano",
-      "last_name": "Kaleebu"
+      "first": "Pontiano",
+      "last": "Kaleebu"
     },
     {
-      "first_name": "Yunia",
-      "last_name": "Mayanja"
+      "first": "Yunia",
+      "last": "Mayanja"
     },
     {
-      "first_name": "Mathew",
-      "last_name": "Odongo"
+      "first": "Mathew",
+      "last": "Odongo"
     },
     {
-      "first_name": "Pat",
-      "last_name": "Fast"
+      "first": "Pat",
+      "last": "Fast"
     },
     {
-      "first_name": "Matt A.",
-      "last_name": "Price"
+      "first": "Matt A.",
+      "last": "Price"
     },
     {
-      "first_name": "Paul L.A.M.",
-      "last_name": "Corstjens"
+      "first": "Paul L.A.M.",
+      "last": "Corstjens"
     },
     {
-      "first_name": "Govert J.",
-      "last_name": "van Dam"
+      "first": "Govert J.",
+      "last": "van Dam"
     },
     {
-      "first_name": "Anatoli",
-      "last_name": "Kamali"
+      "first": "Anatoli",
+      "last": "Kamali"
     },
     {
-      "first_name": "Rafick Pierre",
-      "last_name": "Sekaly"
+      "first": "Rafick Pierre",
+      "last": "Sekaly"
     },
     {
-      "first_name": "Elias K",
-      "last_name": "Haddad"
+      "first": "Elias K",
+      "last": "Haddad"
     }
   ],
   "abstract": "The impact of endemic infections on protective immunity is critical to inform vaccination strategies. In this study, we assessed the influence of Schistosoma mansoni infection on host responses in a Ugandan fishing cohort given a Hepatitis B (HepB) vaccine. Concentrations of schistosome-specific circulating anodic antigen (CAA) pre-vaccination showed a significant bimodal distribution associated with HepB titers, which were lower in individuals with high CAA. We established that participants with high CAA had significantly lower frequencies of circulating T follicular helper (cTfh) subpopulations pre- and post- vaccination and higher regulatory T cells (Tregs) post-vaccination. Polarization towards higher frequencies of Tregs: cTfh cells can be mediated by changes in the cytokine environment favoring Treg differentiation. In fact, we observed higher levels of CCL17 and soluble IL-2R pre-vaccination (important for Treg recruitment and development), in individuals with high CAA that negatively associated with HepB titers. Additionally, alterations in pre-vaccination monocyte function correlated with HepB titers, and changes in innate-related cytokines/chemokine production were associated with increasing CAA concentration. We report, that by influencing the immune landscape, schistosomiasis has the potential to modulate immune responses to HepB vaccination. These findings highlight multiple Schistosoma-related immune associations that could explain abrogated vaccine responses in communities with endemic infections.",

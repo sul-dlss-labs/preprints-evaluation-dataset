@@ -1,21 +1,21 @@
 {
-  "label": "WAM-Studio: A Web-Based Digital Audio Workstation to Empower Cochlear Implant Users",
+  "title": "WAM-Studio: A Web-Based Digital Audio Workstation to Empower Cochlear Implant Users",
   "authors": [
     {
-      "first_name": "Michel",
-      "last_name": "Buffa"
+      "first": "Michel",
+      "last": "Buffa"
     },
     {
-      "first_name": "Antoine",
-      "last_name": "Vidal-Mazuy"
+      "first": "Antoine",
+      "last": "Vidal-Mazuy"
     },
     {
-      "first_name": "Lloyd",
-      "last_name": "May"
+      "first": "Lloyd",
+      "last": "May"
     },
     {
-      "first_name": "Marco",
-      "last_name": "Winckler"
+      "first": "Marco",
+      "last": "Winckler"
     }
   ],
   "abstract": "This paper introduces WAM-Studio, an online Digital Audio Workstation (DAW) for recording, mixing, producing, and playing multi-track music. WAM-Studio advances music development by proposing a web-based environment based on a visual programming paradigm of end-user programming (EUP). In this paper, we describe how users can associate individual tracks with real-time audio processing plugins that can then be customized to produce a desired audio effect. Moreover, we describe how users can visually create macros to control multiple plugin parameters at once. While programming macro controls and customizing track parameters might have many applications in the music industry, they also present an opportunity to afford Hard-of-Hearing users greater control over their music listening. To illustrate the potential of WAM-Studio, we present a case study illustrating how this tool could be used by Hard-of-Hearing users to modify individual musical elements in a multi-track listening context to create a more enjoyable listening experience.",

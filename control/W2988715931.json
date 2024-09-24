@@ -1,21 +1,21 @@
 {
-  "label": "Deep Hough Voting for 3D Object Detection in Point Clouds",
+  "title": "Deep Hough Voting for 3D Object Detection in Point Clouds",
   "authors": [
     {
-      "first_name": "Charles R.",
-      "last_name": "Qi"
+      "first": "Charles R.",
+      "last": "Qi"
     },
     {
-      "first_name": "Or",
-      "last_name": "Litany"
+      "first": "Or",
+      "last": "Litany"
     },
     {
-      "first_name": "Kaiming",
-      "last_name": "He"
+      "first": "Kaiming",
+      "last": "He"
     },
     {
-      "first_name": "Leonidas J.",
-      "last_name": "Guibas"
+      "first": "Leonidas J.",
+      "last": "Guibas"
     }
   ],
   "abstract": "Current 3D object detection methods are heavily influ-\nenced by 2D detectors. In order to leverage architectures\nin 2D detectors, they often convert 3D point clouds to regu-\nlar grids (i.e., to voxel grids or to bird’s eye view images),\nor rely on detection in 2D images to propose 3D boxes.\nFew works have attempted to directly detect objects in point\nclouds. In this work, we return to first principles to con-\nstruct a 3D detection pipeline for point cloud data and as\ngeneric as possible. However, due to the sparse nature of\nthe data – samples from 2D manifolds in 3D space – we face\na major challenge when directly predicting bounding box\nparameters from scene points: a 3D object centroid can be\nfar from any surface point thus hard to regress accurately in\none step. To address the challenge, we propose VoteNet, an\nend-to-end 3D object detection network based on a synergy\nof deep point set networks and Hough voting. Our model\nachieves state-of-the-art 3D detection on two large datasets\nof real 3D scans, ScanNet and SUN RGB-D with a simple\ndesign, compact model size and high efficiency. Remark-\nably, VoteNet outperforms previous methods by using purely\ngeometric information without relying on color images.",

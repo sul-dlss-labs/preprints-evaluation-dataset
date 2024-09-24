@@ -6,6 +6,6 @@ while IFS= read -r line || [[ -n $line ]]; do
   id=${line% *}
   druid=${line#* }
 
-  curl -s https://sul-purl-stage.stanford.edu/$druid.json |  jq '{ label: .label, authors: .description.contributor | map( .name[0] | { first_name: .structuredValue[0].value, last_name: .structuredValue[1].value}), abstract: .description.note[] | select(.type=="abstract").value, keywords: .description.subject | map(select(.type == "topic").value) }' > control/$id.json || echo "ERROR WITH $druid"
+  curl -s https://sul-purl-stage.stanford.edu/$druid.json |  jq '{ title: .label, authors: .description.contributor | map( .name[0] | { first: .structuredValue[0].value, last: .structuredValue[1].value}), abstract: .description.note[] | select(.type=="abstract").value, keywords: .description.subject | map(select(.type == "topic").value) }' > control/$id.json || echo "ERROR WITH $druid"
   echo -n .
 done < <(printf '%s' "$lines")

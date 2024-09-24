@@ -1,241 +1,241 @@
 {
-  "label": "An International Multi-Center Evaluation of Type 5 Long QT Syndrome: A Low Penetrant Primary Arrhythmic Condition",
+  "title": "An International Multi-Center Evaluation of Type 5 Long QT Syndrome: A Low Penetrant Primary Arrhythmic Condition",
   "authors": [
     {
-      "first_name": "Jason D.",
-      "last_name": "Roberts"
+      "first": "Jason D.",
+      "last": "Roberts"
     },
     {
-      "first_name": "S. Yukiko",
-      "last_name": "Asaki"
+      "first": "S. Yukiko",
+      "last": "Asaki"
     },
     {
-      "first_name": "Andrea",
-      "last_name": "Mazzanti"
+      "first": "Andrea",
+      "last": "Mazzanti"
     },
     {
-      "first_name": "J. Martijn",
-      "last_name": "Bos"
+      "first": "J. Martijn",
+      "last": "Bos"
     },
     {
-      "first_name": "Izabella",
-      "last_name": "Tuleta"
+      "first": "Izabella",
+      "last": "Tuleta"
     },
     {
-      "first_name": "Alison R.",
-      "last_name": "Muir"
+      "first": "Alison R.",
+      "last": "Muir"
     },
     {
-      "first_name": "Lia",
-      "last_name": "Crotti"
+      "first": "Lia",
+      "last": "Crotti"
     },
     {
-      "first_name": "Andrew D.",
-      "last_name": "Krahn"
+      "first": "Andrew D.",
+      "last": "Krahn"
     },
     {
-      "first_name": "Valentina",
-      "last_name": "Kutyifa"
+      "first": "Valentina",
+      "last": "Kutyifa"
     },
     {
-      "first_name": "M. Benjamin",
-      "last_name": "Shoemaker"
+      "first": "M. Benjamin",
+      "last": "Shoemaker"
     },
     {
-      "first_name": "Christopher L.",
-      "last_name": "Johnsrude"
+      "first": "Christopher L.",
+      "last": "Johnsrude"
     },
     {
-      "first_name": "Takeshi",
-      "last_name": "Aiba"
+      "first": "Takeshi",
+      "last": "Aiba"
     },
     {
-      "first_name": "Luciana",
-      "last_name": "Marcondes"
+      "first": "Luciana",
+      "last": "Marcondes"
     },
     {
-      "first_name": "Anwar",
-      "last_name": "Baban"
+      "first": "Anwar",
+      "last": "Baban"
     },
     {
-      "first_name": "Sharmila",
-      "last_name": "Udupa"
+      "first": "Sharmila",
+      "last": "Udupa"
     },
     {
-      "first_name": "Brynn",
-      "last_name": "Dechert"
+      "first": "Brynn",
+      "last": "Dechert"
     },
     {
-      "first_name": "Peter",
-      "last_name": "Fischbach"
+      "first": "Peter",
+      "last": "Fischbach"
     },
     {
-      "first_name": "Linda M.",
-      "last_name": "Knight"
+      "first": "Linda M.",
+      "last": "Knight"
     },
     {
-      "first_name": "Eric",
-      "last_name": "Vittinghoff"
+      "first": "Eric",
+      "last": "Vittinghoff"
     },
     {
-      "first_name": "Deni",
-      "last_name": "Kukavica"
+      "first": "Deni",
+      "last": "Kukavica"
     },
     {
-      "first_name": "Birgit",
-      "last_name": "Stallmeyer"
+      "first": "Birgit",
+      "last": "Stallmeyer"
     },
     {
-      "first_name": "John R.",
-      "last_name": "Giudicessi"
+      "first": "John R.",
+      "last": "Giudicessi"
     },
     {
-      "first_name": "Carla",
-      "last_name": "Spazzolini"
+      "first": "Carla",
+      "last": "Spazzolini"
     },
     {
-      "first_name": "Keiko",
-      "last_name": "Shimamoto"
+      "first": "Keiko",
+      "last": "Shimamoto"
     },
     {
-      "first_name": "Rafik",
-      "last_name": "Tadros"
+      "first": "Rafik",
+      "last": "Tadros"
     },
     {
-      "first_name": "Julia",
-      "last_name": "Cadrin-Tourigny"
+      "first": "Julia",
+      "last": "Cadrin-Tourigny"
     },
     {
-      "first_name": "Henry J.",
-      "last_name": "Duff"
+      "first": "Henry J.",
+      "last": "Duff"
     },
     {
-      "first_name": "Christopher S.",
-      "last_name": "Simpson"
+      "first": "Christopher S.",
+      "last": "Simpson"
     },
     {
-      "first_name": "Thomas M.",
-      "last_name": "Roston"
+      "first": "Thomas M.",
+      "last": "Roston"
     },
     {
-      "first_name": "Yanushi D.",
-      "last_name": "Wijeyeratne"
+      "first": "Yanushi D.",
+      "last": "Wijeyeratne"
     },
     {
-      "first_name": "Imane",
-      "last_name": "El Hajjaji"
+      "first": "Imane",
+      "last": "El Hajjaji"
     },
     {
-      "first_name": "Maisoon D.",
-      "last_name": "Yousif"
+      "first": "Maisoon D.",
+      "last": "Yousif"
     },
     {
-      "first_name": "Lorne J.",
-      "last_name": "Gula"
+      "first": "Lorne J.",
+      "last": "Gula"
     },
     {
-      "first_name": "Peter",
-      "last_name": "Leong-Sit"
+      "first": "Peter",
+      "last": "Leong-Sit"
     },
     {
-      "first_name": "Nikhil",
-      "last_name": "Chavali"
+      "first": "Nikhil",
+      "last": "Chavali"
     },
     {
-      "first_name": "Andrew P.",
-      "last_name": "Landstrom"
+      "first": "Andrew P.",
+      "last": "Landstrom"
     },
     {
-      "first_name": "Gregory M.",
-      "last_name": "Marcus"
+      "first": "Gregory M.",
+      "last": "Marcus"
     },
     {
-      "first_name": "Sven",
-      "last_name": "Dittmann"
+      "first": "Sven",
+      "last": "Dittmann"
     },
     {
-      "first_name": "Arthur A. M.",
-      "last_name": "Wilde"
+      "first": "Arthur A. M.",
+      "last": "Wilde"
     },
     {
-      "first_name": "Elijah R.",
-      "last_name": "Behr"
+      "first": "Elijah R.",
+      "last": "Behr"
     },
     {
-      "first_name": "Jacob",
-      "last_name": "Tfelt-Hansen"
+      "first": "Jacob",
+      "last": "Tfelt-Hansen"
     },
     {
-      "first_name": "Melvin M.",
-      "last_name": "Scheinman"
+      "first": "Melvin M.",
+      "last": "Scheinman"
     },
     {
-      "first_name": "Marco V.",
-      "last_name": "Perez"
+      "first": "Marco V.",
+      "last": "Perez"
     },
     {
-      "first_name": "Juan Pablo",
-      "last_name": "Kaski"
+      "first": "Juan Pablo",
+      "last": "Kaski"
     },
     {
-      "first_name": "Robert M.",
-      "last_name": "Gow"
+      "first": "Robert M.",
+      "last": "Gow"
     },
     {
-      "first_name": "Fabrizio",
-      "last_name": "Drago"
+      "first": "Fabrizio",
+      "last": "Drago"
     },
     {
-      "first_name": "Peter F.",
-      "last_name": "Aziz"
+      "first": "Peter F.",
+      "last": "Aziz"
     },
     {
-      "first_name": "Dominic J.",
-      "last_name": "Abrams"
+      "first": "Dominic J.",
+      "last": "Abrams"
     },
     {
-      "first_name": "Michael H.",
-      "last_name": "Gollob"
+      "first": "Michael H.",
+      "last": "Gollob"
     },
     {
-      "first_name": "Jonathan R.",
-      "last_name": "Skinner"
+      "first": "Jonathan R.",
+      "last": "Skinner"
     },
     {
-      "first_name": "Wataru",
-      "last_name": "Shimizu"
+      "first": "Wataru",
+      "last": "Shimizu"
     },
     {
-      "first_name": "Elizabeth S.",
-      "last_name": "Kaufman"
+      "first": "Elizabeth S.",
+      "last": "Kaufman"
     },
     {
-      "first_name": "Dan M.",
-      "last_name": "Roden"
+      "first": "Dan M.",
+      "last": "Roden"
     },
     {
-      "first_name": "Wojciech",
-      "last_name": "Zareba"
+      "first": "Wojciech",
+      "last": "Zareba"
     },
     {
-      "first_name": "Peter J.",
-      "last_name": "Schwartz"
+      "first": "Peter J.",
+      "last": "Schwartz"
     },
     {
-      "first_name": "Eric",
-      "last_name": "Schulze-Bahr"
+      "first": "Eric",
+      "last": "Schulze-Bahr"
     },
     {
-      "first_name": "Susan P.",
-      "last_name": "Etheridge"
+      "first": "Susan P.",
+      "last": "Etheridge"
     },
     {
-      "first_name": "Silvia G.",
-      "last_name": "Priori"
+      "first": "Silvia G.",
+      "last": "Priori"
     },
     {
-      "first_name": "Michael J.",
-      "last_name": "Ackerman"
+      "first": "Michael J.",
+      "last": "Ackerman"
     }
   ],
   "abstract": "Background: Insight into type 5 long QT syndrome (LQT5) has been limited to case reports and small family series. Improved understanding of the clinical phenotype and genetic features associated with rare KCNE1 variants implicated in LQT5 was sought through an international multi-center collaboration. Methods: Patients with either presumed autosomal dominant LQT5 (N = 229) or the recessive Type 2 Jervell and Lange-Nielsen syndrome (JLNS2, N = 19) were enrolled from 22 genetic arrhythmia clinics and 4 registries from 9 countries. KCNE1 variants were evaluated for ECG penetrance (defined as QTc > 460ms on presenting ECG) and genotype-phenotype segregation. Multivariable Cox regression was used to compare the associations between clinical and genetic variables with a composite primary outcome of definite arrhythmic events, including appropriate implantable cardioverter-defibrillator shocks, aborted cardiac arrest, and sudden cardiac death. Results: A total of 32 distinct KCNE1 rare variants were identified in 89 probands and 140 genotype positive family members with presumed LQT5 and an additional 19 JLNS2 patients. Among presumed LQT5 patients, the mean QTc on presenting ECG was significantly longer in probands (476.9 ± 38.6ms) compared to genotype positive family members (441.8 ± 30.9ms, p<0.001). ECG penetrance for heterozygous genotype positive family members was 20.7% (29/140). A definite arrhythmic event was experienced in 16.9% (15/89) of heterozygous probands in comparison with 1.4% (2/140) of family members (adjusted hazard ratio [HR]: 11.6, 95% confidence interval [CI]: 2.6-52.2; p=0.001). Event incidence did not differ significantly for JLNS2 patients relative to the overall heterozygous cohort (10.5% [2/19]; HR: 1.7, 95% CI: 0.3-10.8, p=0.590). The cumulative prevalence of the 32 KCNE1 variants in the Genome Aggregation Database (gnomAD), which is a human database of exome and genome sequencing data from now over 140,000 individuals, was 238-fold greater than the anticipated prevalence of all LQT5 combined (0.238% vs. 0.001%). Conclusions: The present study suggests that putative/confirmed loss-of-function KCNE1 variants predispose to QT-prolongation, however the low ECG penetrance observed suggests they do not manifest clinically in the majority of individuals, aligning with the mild phenotype observed for JLNS2 patients.",

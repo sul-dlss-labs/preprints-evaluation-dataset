@@ -1,17 +1,17 @@
 {
-  "label": "The effects of ecological selection on species diversity and trait distribution: predictions and an empirical test",
+  "title": "The effects of ecological selection on species diversity and trait distribution: predictions and an empirical test",
   "authors": [
     {
-      "first_name": "Niv",
-      "last_name": "DeMalach"
+      "first": "Niv",
+      "last": "DeMalach"
     },
     {
-      "first_name": "Po-Ju",
-      "last_name": "Ke"
+      "first": "Po-Ju",
+      "last": "Ke"
     },
     {
-      "first_name": "Tadashi",
-      "last_name": "Fukami"
+      "first": "Tadashi",
+      "last": "Fukami"
     }
   ],
   "abstract": "Ecological selection is a major driver of community assembly. Selection is classified as stabilizing when species with intermediate trait values gain the highest reproductive success, whereas selection is considered directional when fitness is highest for species with extreme trait values. Previous studies have investigated the effects of different selection types on trait distribution, but the effects of selection on species diversity have remained unclear. Here, we propose a framework for inferring the type and strength of selection by studying species diversity and trait distribution together against null expectations. We use a simulation model to confirm our prediction that directional selection should lead to lower species diversity than stabilizing selection despite a similar effect on trait community-weighted variance. We apply the framework to a mesocosm system of annual plants to test whether differences in species diversity between two habitats that vary in productivity are related to differences in selection on seed mass. We show that, in both habitats, species diversity was lower than the null expectation, but that species diversity was lower in the more productive habitat. We attribute this difference to strong directional selection for large-seeded species in the productive habitat as indicated by trait community-weighted-mean being higher and community-weighted variance being lower than the null expectations. In the less productive habitat, we found that community-weighted variance was higher than expected by chance, suggesting that seed mass could be a driver of niche partitioning under such conditions. Altogether, our results suggest that viewing species diversity and trait distribution as interrelated patterns driven by the same process, ecological selection, is helpful in understanding community assembly.",

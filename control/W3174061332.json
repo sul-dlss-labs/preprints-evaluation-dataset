@@ -1,57 +1,57 @@
 {
-  "label": "Can Auxiliary Indicators Improve COVID-19 Forecasting and Hotspot Prediction?",
+  "title": "Can Auxiliary Indicators Improve COVID-19 Forecasting and Hotspot Prediction?",
   "authors": [
     {
-      "first_name": "Daniel J.",
-      "last_name": "McDonald"
+      "first": "Daniel J.",
+      "last": "McDonald"
     },
     {
-      "first_name": "Jacob",
-      "last_name": "Bien"
+      "first": "Jacob",
+      "last": "Bien"
     },
     {
-      "first_name": "Alden",
-      "last_name": "Green"
+      "first": "Alden",
+      "last": "Green"
     },
     {
-      "first_name": "Addison J.",
-      "last_name": "Hu"
+      "first": "Addison J.",
+      "last": "Hu"
     },
     {
-      "first_name": "Nat",
-      "last_name": "DeFries"
+      "first": "Nat",
+      "last": "DeFries"
     },
     {
-      "first_name": "Sangwon",
-      "last_name": "Hyun"
+      "first": "Sangwon",
+      "last": "Hyun"
     },
     {
-      "first_name": "Natalia L.",
-      "last_name": "Oliveira"
+      "first": "Natalia L.",
+      "last": "Oliveira"
     },
     {
-      "first_name": "James",
-      "last_name": "Sharpnack"
+      "first": "James",
+      "last": "Sharpnack"
     },
     {
-      "first_name": "Jingjing",
-      "last_name": "Tang"
+      "first": "Jingjing",
+      "last": "Tang"
     },
     {
-      "first_name": "Robert",
-      "last_name": "Tibshirani"
+      "first": "Robert",
+      "last": "Tibshirani"
     },
     {
-      "first_name": "Valérie",
-      "last_name": "Ventura"
+      "first": "Valérie",
+      "last": "Ventura"
     },
     {
-      "first_name": "Larry",
-      "last_name": "Wasserman"
+      "first": "Larry",
+      "last": "Wasserman"
     },
     {
-      "first_name": "Ryan J.",
-      "last_name": "Tibshirani"
+      "first": "Ryan J.",
+      "last": "Tibshirani"
     }
   ],
   "abstract": "Short-term forecasts of traditional streams from public health reporting (such as cases, hospitalizations, and deaths) are a key input to public health decision-making during a pandemic. Since early 2020, our research group has worked with data partners to collect, curate, and make publicly available numerous real-time COVID-19 indicators, providing multiple views of pandemic activity in the U.S. This paper studies the utility of five such indicators-derived from de-identified medical insurance claims, self-reported symptoms from online surveys, and COVID-related Google search activity-from a forecasting perspective. For each indicator, we ask whether its inclusion in an autoregressive (AR) model leads to improved predictive accuracy relative to the same model excluding it. Such an AR model, without external features, is already competitive with many top COVID-19 forecasting models in use today. Our analysis reveals that (a) inclusion of each of these five indicators improves on the overall predictive accuracy of the AR model; (b) predictive gains are in general most pronounced during times in which COVID cases are trending in \"flat\" or \"down\" directions; (c) one indicator, based on Google searches, seems to be particularly helpful during \"up\" trends.",
