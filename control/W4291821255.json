@@ -1,0 +1,29 @@
+{
+  "title": "Looking into the past Eye-tracking mental simulation in physical inference",
+  "authors": [
+    {
+      "first": "Ari",
+      "last": "Beller"
+    },
+    {
+      "first": "Yingchen",
+      "last": "Xu"
+    },
+    {
+      "first": "Scott",
+      "last": "Linderman"
+    },
+    {
+      "first": "Tobias",
+      "last": "Gerstenberg"
+    }
+  ],
+  "abstract": "Mental simulation is a powerful cognitive capacity that underlies people's ability to draw inferences about what happened in the past from the present. Recent work suggests that eye-tracking can be used as a window through which one can study the process of mental simulation in intuitive physics tasks. In our experiment, participants have to figure out in which of three holes a ball was dropped in a virtual Plinko box. We develop a computational model of human intuitive physical reasoning in Plinko that runs repeated simulations in a noisy physics simulator in order to infer in which hole the ball was dropped. We evaluate our model's behavior against multiple human data signals: trial judgments, response times, and eye-movement data. We find that a model that sequentially samples simulations while balancing uncertainty and reward best explains the patterns of participant behavior we observe in these three signals.",
+  "keywords": [
+    "mental simulation",
+    "intuitive physics",
+    "causal inference",
+    "eye-tracking",
+    "computational modeling"
+  ]
+}

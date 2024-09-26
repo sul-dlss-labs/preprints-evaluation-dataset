@@ -1,0 +1,27 @@
+{
+  "title": "Flexible Electrochemical Stripping for Wastewater Ammonia Recovery with Real-Time Product Tunability",
+  "authors": [
+    {
+      "first": "Anna",
+      "last": "Kogler"
+    },
+    {
+      "first": "Meili",
+      "last": "Gong"
+    },
+    {
+      "first": "William A.",
+      "last": "Tarpeh"
+    }
+  ],
+  "abstract": "Nitrogen in wastewater can be recovered to prevent negative environmental, human health, and economic impacts and to enable distributed chemical manufacturing. We developed novel flexible electrochemical stripping (FECS) for tunable recovery of ammonia/ammonium (total ammonia nitrogen, TAN) from urine as (NH4)2SO4 and aqueous NH3. Batch and continuous experiments demonstrated that product speciation could be readily controlled by modifying electrochemical cell operation frequency, duration, and applied current without affecting TAN removal. During continuous experiments, FECS recovered NH3 solutions with concentrations similar to ready-to-use cleaners (1% and 2% NH3 (w/w) or 8.22 and 16.4 g/L TAN) and cleaner concentrates (5% NH3 (w/w) or 41.1 g/L TAN), as well as (NH4)2SO4 solutions between 5 and 18.4 g/L TAN, approaching commercial fertilizer concentrations (28.4 g/L TAN). Beyond modifying applied current, future process engineering and operating condition optimization should reduce energy consumption, increase recovery efficiency, and enhance economic viability of FECS. Our findings will enable development and deployment of electrochemical nitrogen recovery in contexts with varying needs for ammonia-based products, paving the way for circular economies that integrate distributed chemical manufacturing with sanitation systems.",
+  "keywords": [
+    "circular economy",
+    "electrodialysis",
+    "membrane distillation",
+    "nitrogen",
+    "product diversification",
+    "resource recovery",
+    "urine"
+  ]
+}

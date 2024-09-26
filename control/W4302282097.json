@@ -1,0 +1,42 @@
+{
+  "title": "A reevaluation of the relationship between EGL-43 (EVI1/MECOM) and LIN-12 (Notch) during C. elegans anchor cell invasion",
+  "authors": [
+    {
+      "first": "Michael A. Q.",
+      "last": "Martinez"
+    },
+    {
+      "first": "Angelina A.",
+      "last": "Mullarkey"
+    },
+    {
+      "first": "Callista",
+      "last": "Yee"
+    },
+    {
+      "first": "Chris Z.",
+      "last": "Zhao"
+    },
+    {
+      "first": "Wan",
+      "last": "Zhang"
+    },
+    {
+      "first": "Kang",
+      "last": "Shen"
+    },
+    {
+      "first": "David Q.",
+      "last": "Matus"
+    }
+  ],
+  "abstract": "Development of the C. elegans reproductive tract is orchestrated by the anchor cell (AC). Among other things, this occurs through a cell invasion event that connects the uterine and vulval tissue. Several key transcription factors regulate AC invasion, such as EGL-43, HLH-2, and NHR-67. Specifically, these transcription factors function together to maintain the post-mitotic state of the AC, a requirement for AC invasion. EGL-43 is the C. elegans homolog of the human EVI1/MECOM proto-oncogene, and recently, a mechanistic connection has been made between its loss and AC cell-cycle entry. The current model states that EGL-43 represses LIN-12 (Notch) expression to prevent AC proliferation, suggesting that Notch signaling is mitogenic in the absence of EGL-43. To reevaluate the relationship between EGL-43 and LIN-12, we designed and implemented a heterologous co-expression system called AIDHB that combines the auxin-inducible degron (AID) system of plants with a live cell-cycle sensor based on human DNA helicase B (DHB). After validating the AIDHB approach using AID-tagged GFP, we sought to test this approach using AID-tagged alleles of egl-43 and lin-12. Auxin-inducible degradation of either EGL-43 or LIN-12 resulted in the expected AC phenotypes. Lastly, we seized the opportunity to pair AIDHB with RNAi to co-deplete LIN-12 and EGL-43, respectively. This combined approach revealed that LIN-12 is not required for AC proliferation following loss of EGL-43, which contrasts with a double RNAi experiment directed against these same targets. The addition of AIDHB to the C. elegans transgenic toolkit should facilitate functional in vivo imaging of cell-cycle associated phenomena.",
+  "keywords": [
+    "C. elegans",
+    "AC Invasion",
+    "EGL-43",
+    "LIN-12",
+    "AID",
+    "DHB"
+  ]
+}

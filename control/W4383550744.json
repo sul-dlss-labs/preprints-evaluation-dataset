@@ -1,0 +1,41 @@
+{
+  "title": "The Biogenesis of Bacterial PHB Granules",
+  "authors": [
+    {
+      "first": "Edward A.",
+      "last": "de Koning"
+    },
+    {
+      "first": "Mayura",
+      "last": "Panjalingam"
+    },
+    {
+      "first": "Jessica",
+      "last": "Tran"
+    },
+    {
+      "first": "Michael R.",
+      "last": "Eckhart"
+    },
+    {
+      "first": "Peter D.",
+      "last": "Dahlberg"
+    },
+    {
+      "first": "Lucy",
+      "last": "Shapiro"
+    }
+  ],
+  "abstract": "PHB granules are bacterial organelles that store excess carbohydrates in the form of water-insoluble polyhydroxybutyrate (PHB). The biogenesis of these organelles has remained elusive. In this study, we show that PHB polymerase, phasin, and PHB synthesis are essential for PHB granule formation in Caulobacter crescentus. We show granule formation is initiated by the accumulation of PHB polymerase and subsequent recruitment of phasin. Phasin is a small amphipathic protein that is associated with PHB granules. Following the active synthesis of PHB, the polymerase dissociates from mature granules which coincides with recruitment of the PHB depolymerase. In the absence of phasin, PHB granules remain small and fail to increase past 250nm in diameter. The polymerase directly binds phasin in vitro through its intrinsically disordered N-terminal domain. Deletion of the polymerase N-terminus in vivo disrupts PHB granule formation and results in increased instability of the polymerase. Stability of the full-length polymerase is decreased under active PHB synthesis, potentially acting as a negative feedback loop on organelle biogenesis. Thus, the biogenesis of this membrane-less bacterial organelle uses an enzymatically active protein boundary to control the size and function of a carbon storage PHB granule.",
+  "keywords": [
+    "Caulobacter",
+    "bacterial organelle",
+    "PHB granule",
+    "PHB polymerase",
+    "phasin",
+    "PhaC",
+    "Phap",
+    "PhaR",
+    "PhaZ"
+  ]
+}

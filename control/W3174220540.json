@@ -1,0 +1,37 @@
+{
+  "title": "The Values Encoded in Machine Learning Research",
+  "authors": [
+    {
+      "first": "Abeba",
+      "last": "Birhane"
+    },
+    {
+      "first": "Pratyusha",
+      "last": "Kalluri"
+    },
+    {
+      "first": "Dallas",
+      "last": "Card"
+    },
+    {
+      "first": "William",
+      "last": "Agnew"
+    },
+    {
+      "first": "Ravit",
+      "last": "Dotan"
+    },
+    {
+      "first": "Michelle",
+      "last": "Bao"
+    }
+  ],
+  "abstract": "Machine learning currently exerts an outsized influence on the world, increasingly affecting institutional practices and impacted communities. It is therefore critical that we question vague conceptions of the field as value-neutral or universally beneficial, and investigate what specific values the field is advancing. In this paper, we first introduce a method and annotation scheme for studying the values encoded in documents such as research papers. Applying the scheme, we analyze 100 highly cited machine learning papers published at premier machine learning conferences, ICML and NeurIPS. We annotate key features of papers which reveal their values: their justification for their choice of project, which attributes of their project they uplift, their consideration of potential negative consequences, and their institutional affiliations and funding sources. We find that few of the papers justify how their project connects to a societal need (15%) and far fewer discuss negative potential (1%). Through line-by-line content analysis, we identify 59 values that are uplifted in ML research, and, of these, we find that the papers most frequently justify and assess themselves based on Performance, Generalization, Quantitative evidence, Efficiency, Building on past work, and Novelty. We present extensive textual evidence and identify key themes in the definitions and operationalization of these values. Notably, we find systematic textual evidence that these top values are being defined and applied with assumptions and implications generally supporting the centralization of power. Finally, we find increasingly close ties between these highly cited papers and tech companies and elite universities.",
+  "keywords": [
+    "Encoded values of ML",
+    "ICML",
+    "NeurIPS",
+    "Corporate ties",
+    "Power asymmetries"
+  ]
+}

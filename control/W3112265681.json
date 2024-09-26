@@ -1,0 +1,87 @@
+{
+  "title": "Real-world Evidence of Diagnostic Testing and Treatment Patterns in U.S. Breast Cancer Patients with Implications for Treatment Biomarkers from RNA-sequencing Data",
+  "authors": [
+    {
+      "first": "Louis E.",
+      "last": "Fernandes"
+    },
+    {
+      "first": "Caroline G.",
+      "last": "Epstein"
+    },
+    {
+      "first": "Alexandria M.",
+      "last": "Bobe"
+    },
+    {
+      "first": "Joshua S.K.",
+      "last": "Bell"
+    },
+    {
+      "first": "Martin C.",
+      "last": "Stumpe"
+    },
+    {
+      "first": "Michael E.",
+      "last": "Salazar"
+    },
+    {
+      "first": "Ameen A.",
+      "last": "Salahudeen"
+    },
+    {
+      "first": "Ruth A.",
+      "last": "Pe Benito"
+    },
+    {
+      "first": "Calvin",
+      "last": "McCarter"
+    },
+    {
+      "first": "Benjamin D.",
+      "last": "Leibowitz"
+    },
+    {
+      "first": "Matthew",
+      "last": "Kase"
+    },
+    {
+      "first": "Catherine",
+      "last": "Igartua"
+    },
+    {
+      "first": "Robert",
+      "last": "Huether"
+    },
+    {
+      "first": "Ashraf",
+      "last": "Hafez"
+    },
+    {
+      "first": "Nike",
+      "last": "Beaubier"
+    },
+    {
+      "first": "Michael D.",
+      "last": "Axelson"
+    },
+    {
+      "first": "Mark D.",
+      "last": "Pegram"
+    },
+    {
+      "first": "Sarah L.",
+      "last": "Sammons"
+    },
+    {
+      "first": "Joyce A.",
+      "last": "O'Shaughnessy"
+    },
+    {
+      "first": "Gary A.",
+      "last": "Palmer"
+    }
+  ],
+  "abstract": "INTRODUCTION We performed a retrospective analysis of longitudinal real-world data (RWD) from breast cancer patients to replicate results from clinical studies and demonstrate the feasibility of generating real-world evidence. We also assessed the value of transcriptome profiling as a complementary tool for determining molecular subtypes. PATIENTS AND METHODS De-identified, longitudinal data were analyzed after abstraction from U.S. breast cancer patient records structured and stored in the Tempus database. Demographics, clinical characteristics, molecular subtype, treatment history, and survival outcomes were assessed according to strict qualitative criteria. RNA sequencing and clinical data were used to predict molecular subtypes and signaling pathway enrichment. RESULTS The clinical abstraction cohort (n=4,000) mirrored U.S. breast cancer demographics and clinical characteristics indicating feasibility for RWE generation. Among HER2+ patients, 74.2% received anti-HER2 therapy, with ~70% starting within 3 months of a positive test result. Most non-treated patients were early stage. In this RWD set, 31.7% of patients with HER2+ IHC had discordant FISH results recorded. Among patients with multiple HER2 IHC results at diagnosis, 18.6% exhibited intra-test discordance. Through development of a whole-transcriptome model to predict IHC receptor status in the molecular sequenced cohort (n=400), molecular subtypes were resolved for all patients (n=36) with equivocal HER2 statuses from abstracted test results. Receptor-related signaling pathways were differentially enriched between clinical molecular subtypes. CONCLUSION RWD in the Tempus database mirrors the overall U.S. breast cancer population. These results suggest real-time, RWD analyses are feasible in a large, highly heterogeneous database. Furthermore, molecular data may aid deficiencies and discrepancies observed from breast cancer RWD.",
+  "keywords": []
+}

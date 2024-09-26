@@ -1,0 +1,54 @@
+{
+  "title": "Stereochemistry Determines Immune Cellular Responses to Polylactide Implants",
+  "authors": [
+    {
+      "first": "Chima V.",
+      "last": "Maduka"
+    },
+    {
+      "first": "Mohammed",
+      "last": "Alhaj"
+    },
+    {
+      "first": "Evran",
+      "last": "Ural"
+    },
+    {
+      "first": "Maxwell M.",
+      "last": "Kuhnert"
+    },
+    {
+      "first": "Oluwatosin M.",
+      "last": "Habeeb"
+    },
+    {
+      "first": "Anthony L.",
+      "last": "Schilmiller"
+    },
+    {
+      "first": "Kurt D.",
+      "last": "Hankenson"
+    },
+    {
+      "first": "Stuart B.",
+      "last": "Goodman"
+    },
+    {
+      "first": "Ramani",
+      "last": "Narayan"
+    },
+    {
+      "first": "Christopher H.",
+      "last": "Contag"
+    }
+  ],
+  "abstract": "Repeating L- and D-chiral configurations determine polylactide (PLA) stereochemistry which affects its thermal and physicochemical properties, including degradation profiles. Clinically, degradation of implanted PLA biomaterials promotes prolonged inflammation and excessive fibrosis, but the role of PLA stereochemistry is unclear. Additionally, although PLA of varied stereochemistries cause differential immune responses in-vivo, this observation has yet to be effectively modeled in-vitro. A bioenergetic model was applied to study immune cellular responses to PLA containing > 99% L-lactide (PLLA), > 99% D-lactide (PDLA) and a 50/50 melt-blend of PLLA and PDLA (stereocomplex PLA). Stereocomplex PLA breakdown products increased IL-1β, TNF-α and IL-6 protein levels but not MCP-1. Expression of these proinflammatory cytokines is mechanistically driven by increases in glycolysis in primary macrophages. In contrast, PLLA and PDLA degradation products selectively increase MCP-1 protein expression. Whereas both oxidative phosphorylation and glycolysis are increased with PDLA, only oxidative phosphorylation is increased with PLLA. For each biomaterial, glycolytic inhibition reduces proinflammatory cytokines and markedly increases anti-inflammatory (IL-10) protein levels; differential metabolic changes in fibroblasts were observed. These findings provide mechanistic explanations for the diverse immune responses to PLA of different stereochemistries, and underscore the pivotal role of immunometabolism on the biocompatibility of biomaterials applied in medicine.",
+  "keywords": [
+    "Polylactide",
+    "stereochemistry",
+    "Immune Cells",
+    "Immunometabolism",
+    "Biomaterials",
+    "Biocompatibility"
+  ]
+}

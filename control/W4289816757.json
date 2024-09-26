@@ -1,0 +1,42 @@
+{
+  "title": "Addictions may be driven by competition-induced microbiome dysbiosis",
+  "authors": [
+    {
+      "first": "Ohad",
+      "last": "Lewin-Epstein"
+    },
+    {
+      "first": "Yanabah",
+      "last": "Jaques"
+    },
+    {
+      "first": "Marcus W",
+      "last": "Feldman"
+    },
+    {
+      "first": "Daniela",
+      "last": "Kaufer"
+    },
+    {
+      "first": "Lilach",
+      "last": "Hadany"
+    }
+  ],
+  "abstract": "Recent studies revealed mechanisms by which the microbiome affects its host's brain, behavior and wellbeing, and that dysbiosis – persistent microbiome-imbalance – is associated with the onset and progress of various chronic diseases, including addictive behaviors. Yet, understanding of the ecological and evolutionary processes that shape the host-microbiome ecosystem and affect the host state, is still limited. Here we propose that competition dynamics within the microbiome, associated with host-microbiome mutual regulation, may promote dysbiosis and aggravate addictive behaviors. We constructed a mathematical framework, modeling the dynamics of the host-microbiome ecosystem in response to alterations. We find that when this ecosystem is exposed to substantial perturbations, the microbiome may shift towards a composition that reinforces the new host state. Such positive feedback loop augments post-perturbation imbalances, hindering attempts to return to the initial equilibrium, thus promoting relapse episodes and prolonged addictions. We also find that the initial microbiome composition is a key factor: a diverse microbiome enhances the ecosystem's resilience, whereas lower microbiome diversity is more prone to reach dysbiosis, exacerbating addictions. This framework provides novel evolutionary and ecological perspectives on host-microbiome interactions and their implications for host behavior and health, while offering verifiable predictions with potential relevance to clinical treatments.",
+  "keywords": [
+    "human gut microbiome",
+    "addiction",
+    "withdrawal",
+    "relapse",
+    "brain",
+    "behavior",
+    "gut-brain axis",
+    "computational model",
+    "host-microbe interactions",
+    "evolution",
+    "microbial ecology",
+    "niche construction",
+    "dysbiosis",
+    "chronic disease"
+  ]
+}

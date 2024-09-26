@@ -1,0 +1,18 @@
+{
+  "title": "DATA-DRIVEN BUILDING LAYOUT OPTIMIZATION FOR ENERGY EFFICIENCY",
+  "authors": [
+    {
+      "first": "Andrew J.",
+      "last": "Sonta"
+    },
+    {
+      "first": "Rishee K.",
+      "last": "Jain"
+    }
+  ],
+  "abstract": "Optimization of building design has the promise to substantially reduce building energy consumption. Though typically considered in early design, we demonstrate in this paper that optimal re-design of building layouts has the potential to reduce energy use throughout the lifetime of a building and as occupant dynamics evolve over time. We introduce novel methods for (1) inferring occupant activities and schedules based on plug load sensor data, and (2) clustering occupants by activity patterns to create optimal layouts that take advantage of controllable HVAC and lighting systems. Combining data from a real small office building with the Department of Energy's small office reference building, we demonstrate that this near zero-cost occupant re-alignment strategy can save 3.3% in annual energy consumption.",
+  "keywords": [
+    "advanced energy technologies",
+    "energy conservation in buildings"
+  ]
+}

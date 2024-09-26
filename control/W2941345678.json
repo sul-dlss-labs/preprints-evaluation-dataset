@@ -1,0 +1,59 @@
+{
+  "title": "Current Challenges and Future Trends in Analytical Fragility and Vulnerability Modelling",
+  "authors": [
+    {
+      "first": "Vitor",
+      "last": "Silva"
+    },
+    {
+      "first": "Sinan",
+      "last": "Akkar"
+    },
+    {
+      "first": "Jack",
+      "last": "Baker"
+    },
+    {
+      "first": "Paolo",
+      "last": "Bazzurro"
+    },
+    {
+      "first": "José Miguel",
+      "last": "Castro"
+    },
+    {
+      "first": "Helen",
+      "last": "Crowley"
+    },
+    {
+      "first": "Matjaz",
+      "last": "Dolsek"
+    },
+    {
+      "first": "Carmine",
+      "last": "Galasso"
+    },
+    {
+      "first": "Sergio",
+      "last": "Lagomarsino"
+    },
+    {
+      "first": "Ricardo",
+      "last": "Monteiro"
+    },
+    {
+      "first": "Daniele",
+      "last": "Perrone"
+    },
+    {
+      "first": "Kyriazis",
+      "last": "Pitilakis"
+    },
+    {
+      "first": "Dimitrios",
+      "last": "Vamvatsikos"
+    }
+  ],
+  "abstract": "The lack of empirical data regarding earthquake damage or losses has propelled the development of dozens of analytical methodologies for the derivation of fragility and vulnerability functions. Each method will naturally have its strengths and weaknesses, which will consequently affect the associated risk estimates. With the purpose of sharing knowledge on vulnerability modeling, identifying shortcomings in the existing methods, and recommending improvements to the current practice, a group of vulnerability experts met in Pavia (Italy) on April 2017. Critical topics related with the selection of ground motion records, modeling of complex real structures through simplified approaches, propagation of aleatory and epistemic uncertainties, and validation of vulnerability results were discussed, and suggestions were proposed to improve the reliability and accuracy in vulnerability modeling.",
+  "keywords": []
+}
