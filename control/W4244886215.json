@@ -1,0 +1,90 @@
+{
+  "title": "Association between Psychiatric Disorders and Glomerular Disease",
+  "authors": [
+    {
+      "first": "Hailey E.",
+      "last": "Desmond"
+    },
+    {
+      "first": "Clare",
+      "last": "Lindner"
+    },
+    {
+      "first": "Jonathan P.",
+      "last": "Troost"
+    },
+    {
+      "first": "Zack",
+      "last": "Held"
+    },
+    {
+      "first": "Meg",
+      "last": "Modes"
+    },
+    {
+      "first": "Andrea",
+      "last": "Callaway"
+    },
+    {
+      "first": "Gia J.",
+      "last": "Oh"
+    },
+    {
+      "first": "Richard",
+      "last": "Lafayette"
+    },
+    {
+      "first": "Michelle",
+      "last": "O'Shaughnessy"
+    },
+    {
+      "first": "Matthew",
+      "last": "Elliot"
+    },
+    {
+      "first": "Sharon",
+      "last": "Adler"
+    },
+    {
+      "first": "Elaine S.",
+      "last": "Kamil"
+    },
+    {
+      "first": "Anne",
+      "last": "Pesenson"
+    },
+    {
+      "first": "David T.",
+      "last": "Selewski"
+    },
+    {
+      "first": "Patrick E.",
+      "last": "Gipson"
+    },
+    {
+      "first": "Noelle E.",
+      "last": "Carlozzi"
+    },
+    {
+      "first": "Joseph",
+      "last": "LaVigne"
+    },
+    {
+      "first": "Debbie S.",
+      "last": "Gipson"
+    },
+    {
+      "first": "Susan F.",
+      "last": "Massengill"
+    }
+  ],
+  "abstract": "Patients with chronic health conditions are at heightened risk for psychiatric disorders; yet, little is known about the occurrence of psychiatric disorders or associations with patient and disease characteristics in glomerular disease. \nMethods: This study included patients with glomerular disease enrolled in the Kidney Research Network multisite patient registry. Registry data includes encounter, diagnoses, medication, lab, and vital signs data extracted from participants' electronic health records. ICD9/10 diagnosis codes were used to identify subset of psychiatric disorders focused on anxiety, mood, and behaviorial disorders. Time-varying Cox proportional hazards models were used to analyze time from onset of kidney disease to diagnosis of psychiatric disorder. Models adjusted for age, sex, race, ethnicity, and time-varying treatment, estimated glomerular filtration rate (eGFR), and proteinuria. Analogous models examined diagnosis of psychiatric disorder as a predictor of time to end stage kidney disease (ESKD). \nResults: Data were available for 943 participants with a median of 58 months of follow-up. 109 (12%) participants were ever diagnosed with a psychiatric disorder during follow up. Estimated risk of psychiatric diagnosis after kidney disease was 14.7 cases per 1,000 person-years, and was highest among adolescents. Adjusted analyses found adolescent age (vs. Adult, HR=2.03, CI=1.23-3.35), Asian race (vs. White, HR=0.34, 95% CI=0.16-0.70) and steroid therapy (HR=2.27, 95% CI=1.53-3.38) were associated with psychiatric diagnosis. Psychiatric diagnosis was also associated with progression to ESKD (HR=2.47, 95% CI=1.55-3.95) after adjusting for kidney diagnosis, eGFR at onset, proteinuria over time, and steroid therapy. \nDiscussion: Psychiatric disorders were documented in approximately one eighth of patients with glomerular disease and correlated with clinical disease characteristics. \nConclusions: These findings suggest mental health screening may be warranted in patients with glomerular disease.",
+  "keywords": [
+    "Psychiatric disorder",
+    "anxiety",
+    "glomerular disease",
+    "nephrotic syndrome",
+    "ESKD",
+    "electronic health record"
+  ]
+}

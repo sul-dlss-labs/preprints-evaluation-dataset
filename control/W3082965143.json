@@ -1,0 +1,45 @@
+{
+  "title": "Stress-Induced Structural Transformations in Au Nanocrystals",
+  "authors": [
+    {
+      "first": "Abhinav",
+      "last": "Parakh"
+    },
+    {
+      "first": "Sangryun",
+      "last": "Lee"
+    },
+    {
+      "first": "Mehrdad T.",
+      "last": "Kiani"
+    },
+    {
+      "first": "David",
+      "last": "Doan"
+    },
+    {
+      "first": "Martin",
+      "last": "Kunz"
+    },
+    {
+      "first": "Andrew",
+      "last": "Doran"
+    },
+    {
+      "first": "Seunghwa",
+      "last": "Ryu"
+    },
+    {
+      "first": "X. Wendy",
+      "last": "Gu"
+    }
+  ],
+  "abstract": "Nanocrystals can exist in multiply twinned structures like icosahedron, or single crystalline structures like cuboctahedron. Transformations between these structures can proceed through diffusion or displacive motion. Experimental studies on nanocrystal structural transformations have focused on high temperature diffusion mediated processes. Limited experimental evidence of displacive motion exists. We report structural transformation of 6 nm Au nanocrystals under nonhydrostatic pressure of 7.7 GPa in a diamond anvil cell that is driven by displacive motion. X-ray diffraction and transmission electron microscopy were used to detect the structural transformation from multiply twinned to single crystalline. Single crystalline nanocrystals were recovered after unloading, then quickly reverted to the multiply twinned state after dispersion in toluene. The dynamics of recovery was captured using TEM which showed surface recrystallization and rapid twin boundary motion. Molecular dynamics simulations showed that twin boundaries are unstable due to defects nucleated from the interior of the nanocrystal.",
+  "keywords": [
+    "Diamond Anvil Cell",
+    "X-ray Diffraction",
+    "Transmission Electron Microscopy",
+    "Molecular Dynamics Simulation",
+    "Asymmetric Mackay-like Transformation"
+  ]
+}

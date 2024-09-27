@@ -1,0 +1,23 @@
+{
+  "title": "Experimental Design in Two-Sided Platforms: An Analysis of Bias",
+  "authors": [
+    {
+      "first": "Ramesh",
+      "last": "Johari"
+    },
+    {
+      "first": "Hannah",
+      "last": "Li"
+    },
+    {
+      "first": "Inessa",
+      "last": "Liskovich"
+    },
+    {
+      "first": "Gabriel Y.",
+      "last": "Weintraub"
+    }
+  ],
+  "abstract": "We develop an analytical framework to study experimental design in two-sided marketplaces. Many of these experiments exhibit interference, where an intervention applied to one market participant influences the behavior of another participant. This interference leads to biased estimates of the treatment effect of the intervention. We develop a stochastic market model and associated mean field limit to capture dynamics in such experiments, and use our model to investigate how the performance of different designs and estimators is affected by marketplace interference effects. Platforms typically use two common experimental designs: demand-side \"customer\" randomization (CR) and supply-side \"listing\" randomization (LR), along with their associated estimators. We show that good experimental design depends on market balance: in highly demand-constrained markets, CR is unbiased, while LR is biased; conversely, in highly supply-constrained markets, LR is unbiased, while CR is biased. We also introduce and study a novel experimental design based on two-sided randomization (TSR) where both customers and listings are randomized to treatment and control. We show that appropriate choices of TSR designs can be unbiased in both extremes of market balance, while yielding relatively low bias in intermediate regimes of market balance.",
+  "keywords": []
+}

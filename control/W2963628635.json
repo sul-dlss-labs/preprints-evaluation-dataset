@@ -1,0 +1,23 @@
+{
+  "title": "PROPERLY EMBEDDED MINIMAL ANNULI IN H² × R",
+  "authors": [
+    {
+      "first": "Leonor",
+      "last": "Ferrer"
+    },
+    {
+      "first": "Francisco",
+      "last": "Martín"
+    },
+    {
+      "first": "Rafe",
+      "last": "Mazzeo"
+    },
+    {
+      "first": "Magdalena",
+      "last": "Rodríguez"
+    }
+  ],
+  "abstract": "In this paper we study the moduli space of properly Alexandrov-embedded, minimal annuli in H² × R with horizontal ends. We say that the ends are horizontal when they are graphs of C2, functions over ∂∞H2. Contrary to expectation, we show that one can not fully prescribe the two boundary curves at infinity, but rather, one can prescribe one of the boundary curves, but the other one only up to a translation and a tilt, along with the position of the neck and the vertical flux of the annulus. We also prove general existence theorems for minimal annuli with discrete groups of symmetries.",
+  "keywords": []
+}

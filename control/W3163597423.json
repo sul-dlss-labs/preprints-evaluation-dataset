@@ -1,0 +1,15 @@
+{
+  "title": "Deep S³PR: Simultaneous Source Separation and Phase Retrieval Using Deep Generative Models (Long Version)",
+  "authors": [
+    {
+      "first": "Christopher A.",
+      "last": "Metzler"
+    },
+    {
+      "first": "Gordon",
+      "last": "Wetzstein"
+    }
+  ],
+  "abstract": "This paper introduces and solves the simultaneous source separation and phase retrieval (S3PR) problem. S3PR is an important but largely unsolved problem in a number application domains, including microscopy, wireless communication, and imaging through scattering media, where one has multiple independent coherent sources whose phase is difficult to measure. In general, S3PR is highly underdetermined, non-convex, and difficult to solve. In this work, we demonstrate that by restricting the solutions to lie in the range of a deep generative model, we can constrain the search space sufficiently to solve S3PR. Code associated with this work is available at https://github.com/computational-imaging/DeepS3PR.",
+  "keywords": []
+}

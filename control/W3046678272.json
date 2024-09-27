@@ -1,0 +1,51 @@
+{
+  "title": "fault: A Python Embedded Domain-Specific Language For Metaprogramming Portable Hardware Verification Components",
+  "authors": [
+    {
+      "first": "Lenny",
+      "last": "Truong"
+    },
+    {
+      "first": "Steven",
+      "last": "Herbst"
+    },
+    {
+      "first": "Rajsekhar",
+      "last": "Setaluri"
+    },
+    {
+      "first": "Makai",
+      "last": "Mann"
+    },
+    {
+      "first": "Ross",
+      "last": "Daly"
+    },
+    {
+      "first": "Keyi",
+      "last": "Zhang"
+    },
+    {
+      "first": "Caleb",
+      "last": "Donovick"
+    },
+    {
+      "first": "Daniel",
+      "last": "Stanley"
+    },
+    {
+      "first": "Mark",
+      "last": "Horowitz"
+    },
+    {
+      "first": "Clark",
+      "last": "Barrett"
+    },
+    {
+      "first": "Pat",
+      "last": "Hanrahan"
+    }
+  ],
+  "abstract": "While hardware generators have drastically improved design productivity, they have introduced new challenges for the task of verification. To effectively cover the functionality of a sophisticated generator, verification engineers require tools that provide the flexibility of metaprogramming. However, flexibility alone is not enough; components must also be portable in order to encourage the proliferation of verification libraries as well as enable new methodologies. This paper introduces fault, a Python embedded hardware verification language that aims to empower design teams to realize the full potential of generators.",
+  "keywords": []
+}

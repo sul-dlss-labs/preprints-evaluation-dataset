@@ -1,0 +1,31 @@
+{
+  "title": "Characterizing Dark State Kinetics and Single Molecule Fluorescence of FusionRed and FusionRed-MQ at Low Irradiances",
+  "authors": [
+    {
+      "first": "Srijit",
+      "last": "Mukherjee"
+    },
+    {
+      "first": "Connor",
+      "last": "Thomas"
+    },
+    {
+      "first": "Ryan",
+      "last": "Wilson"
+    },
+    {
+      "first": "Emma",
+      "last": "Simmerman"
+    },
+    {
+      "first": "Sheng-Ting",
+      "last": "Hung"
+    },
+    {
+      "first": "Ralph",
+      "last": "Jimenez"
+    }
+  ],
+  "abstract": "The presence of dark states causes fluorescence intermittency of single molecules due to transitions between \"on\" and \"off\" states. Genetically encodable markers such as fluorescent proteins (FPs) exhibit dark states that make several super-resolved single-molecule localization microscopy (SMLM) methods possible. However, studies quantifying the timescales and nature of dark state behavior for commonly used FPs under conditions typical of widefield and total internal reflection fluorescence (TIRF) microscopy remain scarce and pre-date many new SMLM techniques. FusionRed is a relatively bright red FP exhibiting fluorescence intermittency and has thus been identified as a potential candidate for SMLM. We herein characterize the rates for dark-state conversion and the subsequent ground-state recovery of FusionRed and its 2.5-fold brighter descendent FusionRed L175M M42Q (FusionRed-MQ) at low irradiances (1-10 W/cm²), which were previously unexplored experimental conditions. We characterized the kinetics of dark state transitions in these two FPs by using single molecule blinking and ensemble photobleaching experiments bridged with a dark state kinetic model. We find that at low irradiances, the recovery process to the ground state is minimally light-driven and FusionRed-MQ has a 1.3-fold higher ground state recovery time indicating a conformationally restricted dark-state chromophore in comparison to FusionRed. Our studies indicate that the brighter FusionRed-MQ exhibits higher tendency in dark state conversion, thus it is potentially a better candidate for SMLM applications than its progenitor FusionRed.",
+  "keywords": []
+}

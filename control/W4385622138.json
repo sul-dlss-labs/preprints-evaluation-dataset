@@ -1,0 +1,23 @@
+{
+  "title": "Simulated musculoskeletal optimization for sprinting and marathon running",
+  "authors": [
+    {
+      "first": "Tom",
+      "last": "Van Wouwe"
+    },
+    {
+      "first": "Jennifer",
+      "last": "Hicks"
+    },
+    {
+      "first": "Scott",
+      "last": "Delp"
+    },
+    {
+      "first": "Karen",
+      "last": "Liu"
+    }
+  ],
+  "abstract": "Musculoskeletal geometry and muscle volumes vary widely in the population and are intricately linked to the performance of tasks ranging from walking and running to jumping and sprinting. However, our ability to understand how these parameters affect task performance has been limited due to the high computational cost of modelling the necessary complexity of the musculoskeletal system and solving the requisite multi-dimensional optimization problem. For example, sprinting and running are fundamental to many forms of sport, but past research on the relationships between musculoskeletal geometry, muscle volumes, and running performance has been limited to observational studies, which have not established cause-effect relationships, and simulation studies with simplified representations of musculoskeletal geometry. In this study, we developed a novel musculoskeletal simulator that is differentiable with respect to musculoskeletal geometry and muscle volumes. This simulator enabled us to find the optimal body segment dimensions and optimal distribution of added muscle volume for sprinting and marathon running. Our simulation results replicate experimental observations, such as increased muscle mass in sprinters, as well a mass in the lower end of the healthy BMI range and a higher leg-length-to-height ratio in marathon runners. The simulations also reveal new relationships, for example showing that hip musculature is vital to both sprinting and marathon running. We found hip flexor and extensor moment arms were maximized to optimize sprint and marathon running performance, and hip muscles the main target when we simulated strength training for sprinters. Our simulation results can help sprint and marathon runners customize strength training, and our simulator can be extended to other athletic tasks, such as jumping, or to non-athletic applications, such as designing interventions to improve mobility in older adults or individuals with movement disorders.",
+  "keywords": []
+}

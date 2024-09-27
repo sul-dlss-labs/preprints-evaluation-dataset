@@ -1,0 +1,27 @@
+{
+  "title": "Estimating the Marginal Propensity to Consume Using the Distributions of Income, Consumption and Wealth",
+  "authors": [
+    {
+      "first": "Jonathan",
+      "last": "Fisher"
+    },
+    {
+      "first": "David",
+      "last": "Johnson"
+    },
+    {
+      "first": "Timothy",
+      "last": "Smeeding"
+    },
+    {
+      "first": "Jeffrey",
+      "last": "Thompson"
+    }
+  ],
+  "abstract": "Recent studies of economic inequality almost always separately examine income, consumption, and wealth inequality and, hence, miss the important synergy among the three measures explicit in the life-cycle budget constraint. Using Panel Study of Income Dynamics data from 1999 through 2013, we examine whether these changes are more dramatic at higher or lower levels of wealth and find that the marginal propensity to consume is lower at higher wealth quintiles. This suggests that low-wealth households cannot smooth consumption as much as other households do, which further implies that increasing wealth inequality likely reduces aggregate consumption and limits economic growth.",
+  "keywords": [
+    "Marginal Propensity to Consume",
+    "Wealth Distribution",
+    "Inequality"
+  ]
+}

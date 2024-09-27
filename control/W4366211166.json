@@ -1,0 +1,75 @@
+{
+  "title": "Loss of Mitochondrial Enoyl CoA Reductase causes elevated ceramide levels and impairs iron metabolism",
+  "authors": [
+    {
+      "first": "Debdeep",
+      "last": "Dutta"
+    },
+    {
+      "first": "Oguz",
+      "last": "Kanca"
+    },
+    {
+      "first": "Seul Kee",
+      "last": "Byeon"
+    },
+    {
+      "first": "Paul C.",
+      "last": "Marcogliese"
+    },
+    {
+      "first": "Zhongyuan",
+      "last": "Zuo"
+    },
+    {
+      "first": "Rishi V.",
+      "last": "Shridharan"
+    },
+    {
+      "first": "Jun Hyoung",
+      "last": "Park"
+    },
+    {
+      "first": "Guang",
+      "last": "Lin"
+    },
+    {
+      "first": "Ming",
+      "last": "Ge"
+    },
+    {
+      "first": "Gali",
+      "last": "Heimer"
+    },
+    {
+      "first": "Jennefer N.",
+      "last": "Kohler"
+    },
+    {
+      "first": "Matthew T.",
+      "last": "Wheeler"
+    },
+    {
+      "first": "Benny A.",
+      "last": "Kaipparettu"
+    },
+    {
+      "first": "Akhilesh",
+      "last": "Pandey"
+    },
+    {
+      "first": "Hugo J.",
+      "last": "Bellen"
+    }
+  ],
+  "abstract": "In most eukaryotic cells fatty acid synthesis occurs in the cytoplasm as well as in mitochondria. However, the relative contribution of mitochondrial fatty acid synthesis (mtFAS) to the cellular lipidome of metazoans is ill-defined. Hence, we studied the function of the fly Mitochondria enoyl CoA reductase (Mecr), the enzyme required for the last step of mtFAS. Loss of mecr causes lethality while neuronal loss leads to progressive neurological defects. We observe an elevated level of ceramides, a defect in Fe-S cluster biogenesis and increased iron levels in mecr mutants. Reducing the levels of either iron or ceramide suppresses the neurodegenerative phenotypes indicating that increased ceramides and iron metabolism are interrelated and play an important role in the pathogenesis. Mutations in human MECR cause pediatric-onset neurodegeneration and patient-derived fibroblasts display similar elevated ceramide levels and impaired iron homeostasis. In summary, this study shows an as-yet-unidentified role of mecr/MECR in ceramide and iron metabolism providing a mechanistic link between mtFAS and neurodegeneration.",
+  "keywords": [
+    "mtFAS",
+    "lipid metabolism",
+    "Fe-S",
+    "Drosophila",
+    "patient-derived fibroblast",
+    "MEPAN syndrome",
+    "neurodegeneration"
+  ]
+}

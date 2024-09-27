@@ -1,0 +1,23 @@
+{
+  "title": "Tensor methods for the Boltzmann-BGK equation",
+  "authors": [
+    {
+      "first": "Arnout M. P.",
+      "last": "Boelens"
+    },
+    {
+      "first": "Daniele",
+      "last": "Venturi"
+    },
+    {
+      "first": "Daniel M.",
+      "last": "Tartakovsky"
+    }
+  ],
+  "abstract": "We present a tensor-decomposition method to solve the Boltzmann transport equation (BTE) in the Bhatnagar-Gross-Krook approximation. The method represents the six-dimensional BTE as a set of six one-dimensional problems, which are solved with the alternating least-squares algorithm and the discrete Fourier transform at N collocation points. We use this method to predict the equilibrium distribution (steady-state simulation) and a non-equilibrium distribution returning to the equilibrium (transient simulation). Our numerical experiments demonstrate Nlog N scaling. Unlike many BTE-specific numerical techniques, the numerical tensor-decomposition method we propose is a general technique that can be applied to other high-dimensional systems.",
+  "keywords": [
+    "high-dimensional PDE",
+    "tensor method",
+    "non-equilibrium"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Worldwide scaling of waste generation in urban systems",
+  "authors": [
+    {
+      "first": "Mingzhen",
+      "last": "Lu"
+    },
+    {
+      "first": "Chuanbin",
+      "last": "Zhou"
+    },
+    {
+      "first": "Chenghao",
+      "last": "Wang"
+    },
+    {
+      "first": "Robert B.",
+      "last": "Jackson"
+    },
+    {
+      "first": "Christopher P.",
+      "last": "Kempes"
+    }
+  ],
+  "abstract": "The production of waste as a consequence of human activities is one of the most fundamental challenges facing our society and global ecological systems. Waste generation is rapidly increasing, with corresponding shifts in the structure of our societies where almost all nations are moving from rural agrarian societies to urban and technological ones. However, the connections between these radical societal shifts and waste generation have not yet been described. Here we apply scaling theory to establish a new understanding of waste in urban systems. We identify universal scaling laws of waste generation across diverse urban systems worldwide for three forms of waste: wastewater, municipal solid waste, and greenhouse gasses. We show that wastewater generation scales superlinearly, municipal solid waste scales linearly, and greenhouse gasses scales sublinearly with city size. In specific cases production can be understood in terms of city size coupled with financial and natural resources. For example, wastewater generation can be understood in terms of the increased economic activity of larger cities, and the deviations around the scaling relationship - indicating relative efficiency - depend on GDP per person and local rainfall. We also show how the temporal evolution of these scaling relationships reveals a loss of economies of scale and the general increase in waste production, where sublinear scaling relationships become linear. Our findings suggest general mechanisms controlling waste generation across diverse cities and global urban systems. Our approach offers a systematic approach to uncover these underlying mechanisms that might be key to reducing waste and pursing a more sustainable future.",
+  "keywords": [
+    "scaling laws",
+    "urban systems",
+    "sustainability",
+    "wastewater",
+    "municipal solid waste",
+    "greenhouse gas",
+    "efficient city"
+  ]
+}

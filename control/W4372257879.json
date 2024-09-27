@@ -1,0 +1,51 @@
+{
+  "title": "Inhibition of dopamine neurons prevents incentive value encoding of a reward cue: With revelations from deep phenotyping",
+  "authors": [
+    {
+      "first": "Amanda G.",
+      "last": "Iglesias"
+    },
+    {
+      "first": "Alvin S.",
+      "last": "Chiu"
+    },
+    {
+      "first": "Jason",
+      "last": "Wong"
+    },
+    {
+      "first": "Paolo",
+      "last": "Campus"
+    },
+    {
+      "first": "Fei",
+      "last": "Li"
+    },
+    {
+      "first": "Zitong",
+      "last": "Liu"
+    },
+    {
+      "first": "Shiv A.",
+      "last": "Patel"
+    },
+    {
+      "first": "Karl",
+      "last": "Deisseroth"
+    },
+    {
+      "first": "Huda",
+      "last": "Akil"
+    },
+    {
+      "first": "Christian R.",
+      "last": "Burgess"
+    },
+    {
+      "first": "Shelly B.",
+      "last": "Flagel"
+    }
+  ],
+  "abstract": "The survival of an organism is dependent on their ability to respond to cues in the environment. Such cues can attain control over behavior as a function of the value ascribed to them. Some individuals have an inherent tendency to attribute reward-paired cues with incentive motivational value, or incentive salience. For these individuals, termed sign-trackers, a discrete cue that precedes reward delivery becomes attractive and desirable in its own right. Prior work suggests that the behavior of sign-trackers is dopamine-dependent, and cue-elicited dopamine in the nucleus accumbens is believed to encode the incentive value of reward cues. Here we exploited the temporal resolution of optogenetics to determine whether selective inhibition of ventral tegmental area (VTA) dopamine neurons during cue presentation attenuates the propensity to sign-track. Using male tyrosine hydroxylase (TH)-Cre Long Evans rats it was found that, under baseline conditions, ~84% of TH-Cre rats tend to sign-track. Laser-induced inhibition of VTA dopamine neurons during cue presentation prevented the development of sign-tracking behavior, without affecting goal-tracking behavior. When laser inhibition was terminated, these same rats developed a sign-tracking response. Video analysis using DeepLabCut revealed that, relative to rats that received laser inhibition, rats in the control group spent more time near the location of the reward cue even when it was not present and were more likely to orient towards and approach the cue during its presentation. These findings demonstrate that cue-elicited dopamine release is critical for the attribution of incentive salience to reward cues.",
+  "keywords": []
+}

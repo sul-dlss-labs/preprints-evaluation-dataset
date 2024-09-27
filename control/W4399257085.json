@@ -1,0 +1,23 @@
+{
+  "title": "News source bias and sentiment on social media",
+  "authors": [
+    {
+      "first": "Brian",
+      "last": "Knutson"
+    },
+    {
+      "first": "Tiffany W.",
+      "last": "Hsu"
+    },
+    {
+      "first": "Michael",
+      "last": "Ko"
+    },
+    {
+      "first": "Jeanne L.",
+      "last": "Tsai"
+    }
+  ],
+  "abstract": "As social media becomes a key channel for news consumption and sharing, proliferating partisan and mainstream news sources must increasingly compete for users' attention. While affective qualities of news content may promote engagement, it is not clear whether news source bias influences affective content production or virality, or whether any differences have changed over time. We analyzed the sentiment of ~30 million posts (on twitter.com) from 182 U.S. news sources that ranged from extreme left to right bias over the course of a decade (2011-2020). Biased news sources (on both left and right) produced more high arousal negative affective content than balanced sources. High arousal negative content also increased reposting for biased versus balanced sources. This combination of increased prevalence and virality was not evident for other types of affective content. Over a decade, the virality of high arousal negative affective content also increased, particularly in balanced news sources, and in posts about politics. Together, these findings reveal that high arousal negative affective content can promote the spread of biased news content and imply that sentiment analysis tools might help social media users counteract these effects.",
+  "keywords": []
+}

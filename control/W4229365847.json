@@ -1,0 +1,19 @@
+{
+  "title": "Mechanism of the cadherin-catenin F-actin catch bond interaction",
+  "authors": [
+    {
+      "first": "Amy",
+      "last": "Wang"
+    },
+    {
+      "first": "Alexander R.",
+      "last": "Dunn"
+    },
+    {
+      "first": "William I.",
+      "last": "Weis"
+    }
+  ],
+  "abstract": "Mechanotransduction at cell-cell adhesions is crucial for the structural integrity, organization, and morphogenesis of epithelia. At cell-cell junctions, ternary E-cadherin/ẞ-catenin/aE-catenin complexes sense and transmit mechanical load by binding to F-actin. The interaction with F-actin, described as a two-state catch bond, is weak in solution but is strengthened by applied force due to force-dependent transitions between weak and strong actin-binding states. Here, we provide direct evidence from optical trapping experiments that the catch bond property principally resides in the αE-catenin actin-binding domain (ABD). Consistent with our previously proposed model, deletion of the first helix of the five-helix ABD bundle enables stable interactions with F-actin under minimal load that are well-described by a single-state slip bond, even when αE-catenin is complexed with ẞ-catenin and E-cadherin. Our data argue for a conserved catch bond mechanism for adhesion proteins with structurally similar ABDs. We also demonstrate that a stably bound ABD strengthens load-dependent binding interactions between a neighboring complex and F-actin, but the presence of the other αE-catenin domains weakens this effect. These results provide mechanistic insight to the cooperative binding of the cadherin-catenin complex to F-actin, which regulate dynamic cytoskeletal linkages in epithelial tissues.",
+  "keywords": []
+}

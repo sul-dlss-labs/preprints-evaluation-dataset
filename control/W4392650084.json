@@ -1,0 +1,31 @@
+{
+  "title": "Theories derived from Haissinski equation and their applications to electron storage rings",
+  "authors": [
+    {
+      "first": "Demin",
+      "last": "Zhou"
+    },
+    {
+      "first": "Takuya",
+      "last": "Ishibashi"
+    },
+    {
+      "first": "Gaku",
+      "last": "Mitsuka"
+    },
+    {
+      "first": "Makoto",
+      "last": "Tobiyama"
+    },
+    {
+      "first": "Karl",
+      "last": "Bane"
+    },
+    {
+      "first": "Linhao",
+      "last": "Zhang"
+    }
+  ],
+  "abstract": "As a stationary solution of the Vlasov-Fokker-Planck equation, the Haissinski equation predicts the equilibrium line density of a bunch that circulates in a storage ring for a given wake function. This paper shows that some equations regarding the centroid shift of the bunch, the peak position of the bunch profile, bunch length, and extraction of impedance from the bunch profile can be derived from the Haissinski equation in a self-consistent manner. In particular, a generalized quadratic equation for potential-well bunch lengthening is obtained to accommodate any absolute impedance model, expanding upon Zotter's cubic equation, which is primarily applicable to inductive impedance. The equations derived in this paper are tested using computed impedance models for some electron storage rings, showing machine-dependent properties of impedance effects. We conclude that these equations can be employed in electron storage rings to effectively bridge the gap between impedance computations and beam-based measurements.",
+  "keywords": []
+}
